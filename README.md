@@ -19,7 +19,7 @@ Blablabla
 
 <br>
 
-### Dev Skills
+### Content Creator Skills
 Blablabla
 
 <p align="left">
@@ -32,3 +32,7 @@ Blablabla
 * Bla
 * Bla
 
+### Socials
+
+Youtube Twitch Discord Patreon Twitter Insta TikTok
+Github Animelist 
