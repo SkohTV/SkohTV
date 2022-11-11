@@ -35,9 +35,9 @@ Blablabla
 ### Socials
 
 <a href="https://www.youtube.com/@Skoh?sub_confirmation=1" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" width="32" height="32" /></a>
-<a href="https://www.youtube.com/c/Skoh" target="_blank" rel="noreferrer"><img src="https://thumbs2.imgbox.com/0b/7c/XcBooHdT_t.png" width="32" height="32" /></a>
+<a href="https://www.twitch.tv/SkohTV" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/870267753779560549/1040671676653904002/twitch.png" width="32" height="32" /></a>
+<a href="https://discord.com/users/Skoh#9999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 
-
-Twitch Discord Patreon Twitter Insta TikTok
+Patreon Twitter Insta TikTok
 Linkedin Github Animelist 
