@@ -34,7 +34,7 @@ Blablabla
 
 ### Socials
 
-<a href="https://www.youtube.com/@Skoh?sub_confirmation=1" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" width="32" height="32" /></a>
+<a href="https://www.youtube.com/@Skoh" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" width="32" height="32" /></a>
 <a href="https://www.twitch.tv/SkohTV" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/870267753779560549/1040671676653904002/twitch.png" width="32" height="32" /></a>
 <a href="https://discord.com/invite/G8hrncZ" target="_blank" rel="noreferrer"><img src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" width="32" height="32" /></a>
 <a href="https://www.twitter.com/SkohTV" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/870267753779560549/1040677094444769340/twitter.png" width="32" height="32" /></a>
