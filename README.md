@@ -34,5 +34,10 @@ Blablabla
 
 ### Socials
 
-Youtube Twitch Discord Patreon Twitter Insta TikTok
-Github Animelist 
+<a href="https://www.youtube.com/@Skoh?sub_confirmation=1" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" width="32" height="32" /></a>
+<a href="https://www.youtube.com/c/Skoh" target="_blank" rel="noreferrer"><img src="https://thumbs2.imgbox.com/0b/7c/XcBooHdT_t.png" width="32" height="32" /></a>
+
+
+
+Twitch Discord Patreon Twitter Insta TikTok
+Linkedin Github Animelist 
