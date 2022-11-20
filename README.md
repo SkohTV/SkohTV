@@ -40,7 +40,6 @@ Blablabla
 <a href="https://www.twitter.com/SkohTV" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/870267753779560549/1040677094444769340/twitter.png" width="32" height="32" /></a>
 <a href="http://www.instagram.com/SkohTV" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="32" height="32" /></a>
 <a href="https://www.tiktok.com/@skohtv" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/870267753779560549/1040675779639509033/logo-icone-tiktok-simbolo.png" width="32" height="32" /></a>
-<a href="https://www.github.com/SkohTV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 
 
 
