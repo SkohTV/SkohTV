@@ -11,7 +11,7 @@ Hi, I'm a first year student in Computer Science, doing a bunch of personnal pro
 ### Skills
 
 <p align="left" ><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="16" height="16" alt="Python" /></a>
-+3 years, advanced knowledge
++2 years, advanced knowledge
 <!-- Mid 2020 -->
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="16" height="16" alt="C" /></a>
