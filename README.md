@@ -3,7 +3,7 @@
 
 ### Description
 
-Blablabla
+Hi, I'm a first year student in Computer Science, doing a bunch of personnal projects. I'm also a small content creator that make videos/do streams on my free time.
 
 
 <br>
