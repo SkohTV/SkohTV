@@ -40,14 +40,15 @@
     
         "Documents": {
     
+            "https://www.notion.so" : "Manage lessons / documents / personal notes with easy formating",
+    
             "Google": {
                 "https://docs.google.com/document" : "Share and write Word documents as a team",
                 "https://docs.google.com/spreadsheets" : "Share and write Excel sheets as a team",
                 "https://docs.google.com/presentation" : "Share and write PowerPoint presentations as a team",
                 "https://docs.google.com/forms/u/2/" : "Share and write forms as a team"
-            },
+            }
     
-            "https://www.notion.so" : "Manage lessons / documents / personal notes with easy formating"
         },
     
     

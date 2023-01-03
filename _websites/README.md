@@ -34,13 +34,13 @@ __If you want to add some websites__<br>
 </ul></details>
 <details><summary>Files</summary><ul>
     <details><summary>Documents</summary><ul>
+        ㅤ<a href='https://www.notion.so'>https://www.notion.so</a> - <span>Manage lessons / documents / personal notes with easy formating</span><br>
         <details><summary>Google</summary><ul>
             ㅤ<a href='https://docs.google.com/document'>https://docs.google.com/document</a> - <span>Share and write Word documents as a team</span><br>
             ㅤ<a href='https://docs.google.com/spreadsheets'>https://docs.google.com/spreadsheets</a> - <span>Share and write Excel sheets as a team</span><br>
             ㅤ<a href='https://docs.google.com/presentation'>https://docs.google.com/presentation</a> - <span>Share and write PowerPoint presentations as a team</span><br>
             ㅤ<a href='https://docs.google.com/forms/u/2/'>https://docs.google.com/forms/u/2/</a> - <span>Share and write forms as a team</span><br>
         </ul></details>
-        ㅤ<a href='https://www.notion.so'>https://www.notion.so</a> - <span>Manage lessons / documents / personal notes with easy formating</span><br>
     </ul></details>
     <details><summary>Design</summary><ul>
         ㅤ<a href='https://www.canva.com'>https://www.canva.com</a> - <span>Create images with custom presets and easy small edits</span><br>
