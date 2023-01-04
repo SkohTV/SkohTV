@@ -10,13 +10,13 @@ markdownFile = "_websites/README.md"
 
 
 folderStart = "<details><summary>"
-folderEnd = "</summary><ul>"
+folderEnd = "</summary><ul><br>"
 folderClose = "</ul></details>"
 
 fileStart = "ㅤ<a href='"
 fileNext = "'>"
 fileFollow = "</a> - <span>"
-fileClose = "</span><br>"
+fileClose = "</span><br><br>"
 
 tab = "    "
 startMD = """# Websites Ressources<br>
