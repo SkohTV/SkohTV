@@ -54,7 +54,8 @@
     
         "Design": {
             "https://www.canva.com" : "Create images with custom presets and easy small edits",
-            "https://www.figma.com" : "Create highly customizable designs / design websites"
+            "https://www.figma.com" : "Create highly customizable designs / design websites",
+            "https://shields.io" : "Create small shields plates with text/icons"
         },
     
     
@@ -111,7 +112,8 @@
                 "Technical": {
                     "https://roadmap.sh" : "Roadmap to learn general role or skill",
                     "https://exercism.org" : "Exercises to learn specific languages",
-                    "https://www.codingame.com" : "Exercises / challenges for multiple programming languages"
+                    "https://www.codingame.com" : "Exercises / challenges for multiple programming languages",
+                    "https://scrimba.com" : "Basic web fronted lessons"
                 }
             }
         },

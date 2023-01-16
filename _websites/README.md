@@ -45,6 +45,7 @@ __If you want to add some websites__<br>
     <details><summary>Design</summary><ul><br>
         ㅤ<a href='https://www.canva.com'>https://www.canva.com</a> - <span>Create images with custom presets and easy small edits</span><br><br>
         ㅤ<a href='https://www.figma.com'>https://www.figma.com</a> - <span>Create highly customizable designs / design websites</span><br><br>
+        ㅤ<a href='https://shields.io'>https://shields.io</a> - <span>Create small shields plates with text/icons</span><br><br>
     </ul></details>
     <details><summary>Storage</summary><ul><br>
         ㅤ<a href='https://mega.nz/'>https://mega.nz/</a> - <span>Host and share very big files</span><br><br>
@@ -76,6 +77,7 @@ __If you want to add some websites__<br>
                 ㅤ<a href='https://roadmap.sh'>https://roadmap.sh</a> - <span>Roadmap to learn general role or skill</span><br><br>
                 ㅤ<a href='https://exercism.org'>https://exercism.org</a> - <span>Exercises to learn specific languages</span><br><br>
                 ㅤ<a href='https://www.codingame.com'>https://www.codingame.com</a> - <span>Exercises / challenges for multiple programming languages</span><br><br>
+                ㅤ<a href='https://scrimba.com'>https://scrimba.com</a> - <span>Basic web fronted lessons</span><br><br>
             </ul></details>
         </ul></details>
     </ul></details>
