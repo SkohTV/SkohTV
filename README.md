@@ -16,11 +16,18 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 
 ## 🛠 Tech Stack
 
-<b>Languages</b><br>
-<img alt="" src ="https://skillicons.dev/icons?i=python,c" height="32px"><br><br>
-<b>Web Developpement</b><br>
-<img alt="" src ="https://skillicons.dev/icons?i=html,css" height="32px"><br>
+<p align=center>
+    <div>
+        <b>Languages</b>
+        <img align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=material-palenight&layout=compact><br>
+        <img alt="" src ="https://skillicons.dev/icons?i=python,c" height="32px"><br><br>
+        <b>Web Developpement</b><br>
+        <img alt="" src ="https://skillicons.dev/icons?i=html,css" height="32px"><br>
+    <div>
 </p>
+
+
+
 
 
 <br>
