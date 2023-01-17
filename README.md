@@ -19,10 +19,22 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 <p align=center>
     <div>
         <b>Languages</b>
-        <img align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=material-palenight&layout=compact><br>
-        <img alt="" src ="https://skillicons.dev/icons?i=python,c" height="32px"><br><br>
+        <img align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=material-palenight&layout=compact>
+        <br>
+        <a href ="https://www.python.org" target="_blank">
+            <img alt="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg" height=32px>
+        </a>
+        <a href ="https://www.cprogramming.com/" target="_blank">
+            <img alt="C" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/C.svg" height=32px>
+        </a>
+        <br><br>
         <b>Web Developpement</b><br>
-        <img alt="" src ="https://skillicons.dev/icons?i=html,css" height="32px"><br>
+        <a href ="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
+            <img alt="HTML" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg" height=32px>
+        </a>
+        <a href ="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
+            <img alt="CSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" height=32px>
+        </a>
     <div>
 </p>
 
