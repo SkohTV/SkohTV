@@ -27,6 +27,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 		<!--<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;-->
 		<!--<a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ruby" height="32px"></a>&nbsp;-->
 		<!--<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cs" height="32px"></a>&nbsp;-->
+		<!--<a href="" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=clojure" height="32px"></a>&nbsp;-->
 			<a href="#"><img width=350 align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a><br><br>
 	<b>Web Fronted</b><br>
 		<a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
