@@ -13,12 +13,12 @@ folderStart = "<details><summary>"
 folderEnd = "</summary><ul><br>"
 folderClose = "</ul></details>"
 
-fileStart = "ㅤ<a href='"
+fileStart = "<a href='"
 fileNext = "'>"
 fileFollow = "</a> - <span>"
 fileClose = "</span><br><br>"
 
-tab = "    "
+tab = "	"
 startMD = """# Websites Ressources<br>
 
 Repertory of useful websites and ressources<br>
@@ -35,30 +35,30 @@ __If you want to add some websites__<br>
 
 
 def bump(data, level=0) -> str:
-    global text
+	global text
 
-    if type(data) == dict:
-        for i in data:
+	if type(data) == dict:
+		for i in data:
 
-            if type(data[i]) == dict:
-                text += f"{tab * level}{folderStart}{i}{folderEnd}\n"
-                bump(data[i], level+1)
-                text += f"{tab * level}{folderClose}\n"
+			if type(data[i]) == dict:
+				text += f"{tab * level}{folderStart}{i}{folderEnd}\n"
+				bump(data[i], level+1)
+				text += f"{tab * level}{folderClose}\n"
 
-            else:
-                text += f"{tab * level}{fileStart}{i}{fileNext}{i}{fileFollow}{data[i]}{fileClose}\n"
+			else:
+				text += f"{tab * level}{fileStart}{i}{fileNext}{i}{fileFollow}{data[i]}{fileClose}\n"
 
 
 
 
 with open(jsonFile, 'r', encoding="utf-8") as f:
-    json_data = json.load(f)
+	json_data = json.load(f)
 
 with open(markdownFile, 'w', encoding="utf-8") as f:
-    f.write(startMD)
+	f.write(startMD)
 
 with open(markdownFile, 'a', encoding="utf-8") as f:
-    bump(json_data)
-    f.write(text)
+	bump(json_data)
+	f.write(text)
 
 print("Done !")
