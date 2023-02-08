@@ -10,8 +10,6 @@ __If you want to add some websites__<br>
 
 ---
 
-<details><summary>Unsorted</summary><ul><br>
-</ul></details>
 <details><summary>General Tools</summary><ul><br>
 	<a href='https://chat.openai.com'>https://chat.openai.com</a> - <span>Current best AI for answering any question</span><br><br>
 	<details><summary>Links</summary><ul><br>

@@ -40,13 +40,14 @@ def bump(data, level=0) -> str:
 	if type(data) == dict:
 		for i in data:
 
-			if type(data[i]) == dict:
-				text += f"{tab * level}{folderStart}{i}{folderEnd}\n"
-				bump(data[i], level+1)
-				text += f"{tab * level}{folderClose}\n"
+			if not i == "Unsorted":
+				if type(data[i]) == dict:
+					text += f"{tab * level}{folderStart}{i}{folderEnd}\n"
+					bump(data[i], level+1)
+					text += f"{tab * level}{folderClose}\n"
 
-			else:
-				text += f"{tab * level}{fileStart}{i}{fileNext}{i}{fileFollow}{data[i]}{fileClose}\n"
+				else:
+					text += f"{tab * level}{fileStart}{i}{fileNext}{i}{fileFollow}{data[i]}{fileClose}\n"
 
 
 

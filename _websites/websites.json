@@ -1,143 +1,158 @@
-{
-    "Unsorted": {
-    },
-    
-    
-    
-    
-    
-    "General Tools": {
-    
-        "https://chat.openai.com" : "Current best AI for answering any question",
-    
-        "Links": {
-            "https://app.rebrandly.com" : "URL shortener / Allow for afterward original link modification",
-            "https://app.bitly.com" : "URL shortener / Smallest final link",
-            "https://carrd.co" : "Create cards to display multiple URLs"
-        },
-    
-        "Content Creation": {
-            "https://www.epidemicsound.com" : "Lot of copyright free musics / Not free to use",
-            "https://www.joincombo.com" : "Create clips from stream to send to TikTok / Insta / YTB Shorts",
-            "https://www.tubebuddy.com" : "Browser addon / provide tools and stats for Youtube"
-        },
-    
-        "Discord": {
-            "https://discohook.org" : "Create embed message for Discord bot or Webhooks",
-            "https://snowsta.mp" : "Get exact timestamp of message with ID",
-            "https://toolscord.com" : "Download hd picture of user pfp with ID",
-            "https://discord.com/developers" : "Developper portal with your apps / rich presences / bots",
-            "https://betterdiscord.app" : "Enhanced version of Discord with plugins / skins / custom code"
-        }
-    },
-    
-    
-    
-    
-    
-    "Files": {
-    
-    
-        "Documents": {
-    
-            "https://www.notion.so" : "Manage lessons / documents / personal notes with easy formating",
-    
-            "Google": {
-                "https://docs.google.com/document" : "Share and write Word documents as a team",
-                "https://docs.google.com/spreadsheets" : "Share and write Excel sheets as a team",
-                "https://docs.google.com/presentation" : "Share and write PowerPoint presentations as a team",
-                "https://docs.google.com/forms/u/2/" : "Share and write forms as a team"
-            }
-    
-        },
-    
-    
-        "Design": {
-            "https://www.canva.com" : "Create images with custom presets and easy small edits",
-            "https://www.figma.com" : "Create highly customizable designs / design websites",
-            "https://shields.io" : "Create small shields plates with text/icons"
-        },
-    
-    
-        "Storage": {
-            "https://mega.nz/" : "Host and share very big files",
-            "https://drive.google.com/drive/" : "Host and share big files / login accessible API"
-        }
-    },
-    
-    
-    
-    
-    
-    "Computer Science": {
-    
-    
-    
-        "https://github.com" : "Multipurpose code hosting website",
-    
-    
-    
-        "Hosting": {
-            "https://sparkedhost.com" : "Easy to use / Basic service hosting"
-        },
-    
-    
-    
-        "Debug": {
-    
-    
-            "Responses": {
-                "https://stackoverflow.com" : "Forum for asking CS questions",
-                "https://www.w3schools.com" : "Contain responses to basic CS questions",
-                "https://www.geeksforgeeks.org" : "Contain responses to basic CS questions"
-            },
-    
-    
-            "Documentation": {
-                "https://gohugo.io" : "Easy to use framework for static site generation",
-                "https://discordpy.readthedocs.io" : "Python API for discord interactions / bot creation",
-                "https://developer.mozilla.org/en-US/docs/Web/CSS" : "Documentation for CSS syntax"
-            },
-    
-    
-    
-            "Learning": {
-    
-    
-                "Solutionnal": {
-                    "https://shortcuts.design" : "List of shortcuts for advenced / technical apps",
-                    "https://untools.co" : "List of thinking designs to solve / explain / organize problems"
-                },
-    
-                "Technical": {
-                    "https://roadmap.sh" : "Roadmap to learn general role or skill",
-                    "https://exercism.org" : "Exercises to learn specific languages",
-                    "https://www.codingame.com" : "Exercises / challenges for multiple programming languages",
-                    "https://scrimba.com" : "Basic web fronted lessons"
-                }
-            }
-        },
-    
-    
-    
-        "Web Developpement": {
-    
-            "https://responsively.app" : "Show same website with different responsive sizes",
-            "https://fontjoy.com" : "Generate fonts style family with deep learning",
-            "https://coolors.co" : "Generate / save color palette for website consistency",
-            "https://type-scale.com" : "Visualize scales of text for h1 - h2 - h3...",
-    
-            "Ideas": {
-                "https://uxui.monster" : "Designs for inspiration when creating websites",
-                "https://uxarchive.com" : "Ideas of designs for mobile UX"
-            },
-    
-            "Ressources": {
-                "https://beautifier.io" : "Quickly format HTML / CSS / JS to readable",
-                "https://fontawesome.com" : "Download svg icons for website design",
-                "https://fffuel.co" : "Create abstract svg for website background / design",
-                "https://design.facebook.com/toolsandresources/" : "Download images of any device for presentation"
-            }
-        }
-    }
-}
+{"Unsorted": {
+	"https://www.learncpp.com" : "Documentation of C++ and exercises to understand lessons",
+	"https://learnjavaonline.org" : "Basic documentation of Java and exercises",
+	"https://www.tutorialspoint.com" : "Courses, exercises and things to learn languages",
+	"https://learnjavascript.online" : "Basic documentation of JavaScript and exercises",
+	"https://rubymonk.com" : "Courses and exercises to learn Ruby",
+	"https://codecourse.com" : "Courses, exercises and things to learn some languages",
+	"https://codecombat.com" : "Game to learn JavaScript and Python",
+	"https://www.hacketyhack.net" : "Game to learn Ruby",
+	"https://www.codewars.com" : "Game to learn JavaScript, Python, Ruby, C# ...",
+	"https://mystery.knightlab.com" : "Game to learn SQL",
+	"https://screeps.com" : "Game to learn JavaScript",
+	"https://miro.com" : "Create userflows, to organize projects",
+	"https://vercel.com" : "Quickly deploy fronted apps",
+	"https://ngrok.com" : "Share localhost safely",
+	"https://www.codingame.com" : "Exercises to improve",
+	"https://www.hackerrank.com" : "Exercises to improve",
+	"https://leetcode.com" : "Exercises to improve"
+},
+
+
+
+
+
+"General Tools": {
+
+	"https://chat.openai.com" : "Current best AI for answering any question",
+
+	"Links": {
+		"https://app.rebrandly.com" : "URL shortener / Allow for afterward original link modification",
+		"https://app.bitly.com" : "URL shortener / Smallest final link",
+		"https://carrd.co" : "Create cards to display multiple URLs"
+	},
+
+	"Content Creation": {
+		"https://www.epidemicsound.com" : "Lot of copyright free musics / Not free to use",
+		"https://www.joincombo.com" : "Create clips from stream to send to TikTok / Insta / YTB Shorts",
+		"https://www.tubebuddy.com" : "Browser addon / provide tools and stats for Youtube"
+	},
+
+	"Discord": {
+		"https://discohook.org" : "Create embed message for Discord bot or Webhooks",
+		"https://snowsta.mp" : "Get exact timestamp of message with ID",
+		"https://toolscord.com" : "Download hd picture of user pfp with ID",
+		"https://discord.com/developers" : "Developper portal with your apps / rich presences / bots",
+		"https://betterdiscord.app" : "Enhanced version of Discord with plugins / skins / custom code"
+	}
+},
+
+
+
+
+
+"Files": {
+
+
+	"Documents": {
+
+		"https://www.notion.so" : "Manage lessons / documents / personal notes with easy formating",
+
+		"Google": {
+			"https://docs.google.com/document" : "Share and write Word documents as a team",
+			"https://docs.google.com/spreadsheets" : "Share and write Excel sheets as a team",
+			"https://docs.google.com/presentation" : "Share and write PowerPoint presentations as a team",
+			"https://docs.google.com/forms/u/2/" : "Share and write forms as a team"
+		}
+
+	},
+
+
+	"Design": {
+		"https://www.canva.com" : "Create images with custom presets and easy small edits",
+		"https://www.figma.com" : "Create highly customizable designs / design websites",
+		"https://shields.io" : "Create small shields plates with text/icons"
+	},
+
+
+	"Storage": {
+		"https://mega.nz/" : "Host and share very big files",
+		"https://drive.google.com/drive/" : "Host and share big files / login accessible API"
+	}
+},
+
+
+
+
+
+"Computer Science": {
+
+
+
+	"https://github.com" : "Multipurpose code hosting website",
+
+
+
+	"Hosting": {
+		"https://sparkedhost.com" : "Easy to use / Basic service hosting"
+	},
+
+
+
+	"Debug": {
+
+
+		"Responses": {
+			"https://stackoverflow.com" : "Forum for asking CS questions",
+			"https://www.w3schools.com" : "Contain responses to basic CS questions",
+			"https://www.geeksforgeeks.org" : "Contain responses to basic CS questions"
+		},
+
+
+		"Documentation": {
+			"https://gohugo.io" : "Easy to use framework for static site generation",
+			"https://discordpy.readthedocs.io" : "Python API for discord interactions / bot creation",
+			"https://developer.mozilla.org/en-US/docs/Web/CSS" : "Documentation for CSS syntax"
+		},
+
+
+
+		"Learning": {
+
+
+			"Solutionnal": {
+				"https://shortcuts.design" : "List of shortcuts for advenced / technical apps",
+				"https://untools.co" : "List of thinking designs to solve / explain / organize problems"
+			},
+
+			"Technical": {
+				"https://roadmap.sh" : "Roadmap to learn general role or skill",
+				"https://exercism.org" : "Exercises to learn specific languages",
+				"https://www.codingame.com" : "Exercises / challenges for multiple programming languages",
+				"https://scrimba.com" : "Basic web fronted lessons"
+			}
+		}
+	},
+
+
+
+	"Web Developpement": {
+
+		"https://responsively.app" : "Show same website with different responsive sizes",
+		"https://fontjoy.com" : "Generate fonts style family with deep learning",
+		"https://coolors.co" : "Generate / save color palette for website consistency",
+		"https://type-scale.com" : "Visualize scales of text for h1 - h2 - h3...",
+
+		"Ideas": {
+			"https://uxui.monster" : "Designs for inspiration when creating websites",
+			"https://uxarchive.com" : "Ideas of designs for mobile UX"
+		},
+
+		"Ressources": {
+			"https://beautifier.io" : "Quickly format HTML / CSS / JS to readable",
+			"https://fontawesome.com" : "Download svg icons for website design",
+			"https://fffuel.co" : "Create abstract svg for website background / design",
+			"https://design.facebook.com/toolsandresources/" : "Download images of any device for presentation"
+		}
+	}
+}}
