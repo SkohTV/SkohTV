@@ -32,32 +32,33 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 		<!--<a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ruby" height="32px"></a>&nbsp;-->
 		<!--<a href="https://go.dev" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp;-->
 		<!--<a href="https://clojure.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=clojure" height="32px"></a>&nbsp;-->
-			<a href="#"><img width=350 align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a><br><br>
-	<b>Web Fronted</b><br>
+			<a href="#"><img width=350 align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a>
+	<br><br><b>Web Fronted</b><br>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
 		<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=css" height="32px"></a>&nbsp;
 		<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=sass" height="32px"></a>&nbsp;
 		<!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;-->
-		<!--<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ts" height="32px"></a><br><br>-->
-	<!--<b>Web Backend</b><br>-->
+		<!--<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ts" height="32px"></a>-->
+	<!--<br><br><b>Web Backend</b><br>-->
 		<!--<a href="https://www.php.net" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp;-->
 		<!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=nodejs" height="32px"></a>&nbsp;-->
 		<!--<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=react" height="32px"></a>&nbsp;-->
 		<!--<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;-->
 		<!--<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rails" height="32px"></a>&nbsp;-->
-			<!--<img width=350 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"><br><br>-->
-	<!--<b>Databases</b><br>-->
+			<!--<img width=350 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true">-->
+	<!--<br><br><b>Databases</b><br>-->
 		<!--<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;-->
 		<!--<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mysql" height="32px"></a>&nbsp;-->
 		<!--<a href="https://redis.io" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp;-->
 		<!--<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=googlecloud" height="32px"></a>&nbsp;-->
-		<!--<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=aws" height="32px"></a><br><br>-->
-	<!--<b>Miscellaneous</b><br>-->
+		<!--<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=aws" height="32px"></a>-->
+	<!--<br><br><b>Miscellaneous</b><br>-->
 		<!--<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;-->
 		<!--<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;-->
 		<!--<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
-		<!--<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=git" height="32px"></a><br>-->
-<div></p><br>
+		<!--<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=git" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=docker" height="32px"></a>-->
+<br><div></p><br>
 
 
 
