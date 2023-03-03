@@ -11,7 +11,8 @@ Hi, I'm a first year student in Computer Science, doing a bunch of personnal pro
 ### <a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=python,mongodb" height="16px"></a>
 Small all-in-one Discord bot written in Python, only running in my Discord server
 
-
+<!--### <a href="https://github.com/SkohTV/phantom-actions" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Phantom](https://github.com/SkohTV/phantom-actions)&nbsp;<a href="https://github.com/SkohTV/phantom-actions" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=ts,nodejs,redis" height="16px"></a>
+Perform numerous actions in background, as silent as a ghost-->
 
 
 <br>
@@ -22,44 +23,47 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 
 
 <p align=center><div><br>
-		<a href="#"><img width=350 align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a>
-	<b>Languages</b><br>
+	<b>Languages</b>
+		<!-- <a href="#"><img width=350 align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true&hide=html,css,less,sass,shell,makefile></a> -->
+		<a href="#"><img width=350 align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a><br>
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
 		<a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
-		<!-- <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cpp" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=java" height="32px"></a> -->
-		<!-- <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp; -->
-	<!-- <br>&nbsp;&nbsp;&nbsp; -->
-		<!-- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cs" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ruby" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://go.dev" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp; -->
-		<!-- <a href="" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=lua" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://clojure.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=clojure" height="32px"></a>&nbsp; -->
+		<!--<a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cpp" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.java.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rust" height="32px"></a>-->
+	<!--<br>-->
+		<!--<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cs" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ruby" height="32px"></a>&nbsp;-->
+		<!--<a href="https://go.dev" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.lua.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=lua" height="32px"></a>&nbsp;-->
+		<!--<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=elixir" height="32px"></a>&nbsp;-->
+		<!--<a href="https://clojure.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=clojure" height="32px"></a>-->
 	<br><br><b>Web Developpement</b><br>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
 		<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=css" height="32px"></a>&nbsp;
-		<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://www.php.net" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp; -->
+		<!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.php.net" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp;-->
 		<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=sass" height="32px"></a>&nbsp;
-		<!-- <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ts" height="32px"></a> -->
-	<!-- <br><br><b>Web Frameworks</b><br> -->
-		<!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=nodejs" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=react" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rails" height="32px"></a>&nbsp; -->
-			<!-- <img width=350 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"> -->
-	<!-- <br><br><b>Databases</b><br> -->
-		<!-- <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mysql" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://redis.io" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=googlecloud" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=aws" height="32px"></a> -->
-	<!-- <br><br><b>Miscellaneous</b><br> -->
-		<!-- <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=git" height="32px"></a>&nbsp; -->
-		<!-- <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=docker" height="32px"></a> -->
+		<!--<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ts" height="32px"></a>-->
+	<!--<br><br><b>Web Frameworks</b><br>-->
+		<!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=nodejs" height="32px"></a>&nbsp;-->
+		<!--<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=react" height="32px"></a>&nbsp;-->
+		<!--<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;-->
+		<!--<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rails" height="32px"></a>-->
+			<!--<a href="#"><img width=350 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a><br>-->
+	<!--<br><b>Databases</b><br>-->
+		<!--<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=postgresql" height="32px"></a>&nbsp;-->
+		<!--<a href="https://redis.io" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp;-->
+		<!--<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=aws" height="32px"></a>&nbsp;-->
+		<!--<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=googlecloud" height="32px"></a>&nbsp;-->
+		<!--<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=azure" height="32px"></a>-->
+	<!--<br><br><b>Miscellaneous</b><br>-->
+		<!--<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;-->
+		<!--<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
+		<!--<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=git" height="32px"></a>&nbsp;-->
+		<!--<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=docker" height="32px"></a>-->
 <br><div></p><br>
 
 
