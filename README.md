@@ -31,11 +31,6 @@ Perform numerous actions in background, as silent as a ghost-->
 		<!--<a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cpp" height="32px"></a>&nbsp;-->
 		<!--<a href="https://www.java.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;-->
 		<!--<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rust" height="32px"></a>-->
-	<!--<br>-->
-		<!--<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cs" height="32px"></a>&nbsp;-->
-		<!--<a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ruby" height="32px"></a>&nbsp;-->
-		<!--<a href="https://go.dev" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp;-->
-		<!--<a href="https://www.lua.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=lua" height="32px"></a>&nbsp;-->
 		<!--<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=elixir" height="32px"></a>&nbsp;-->
 		<!--<a href="https://clojure.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=clojure" height="32px"></a>-->
 	<br><br><b>Web Developpement</b><br>
@@ -49,8 +44,8 @@ Perform numerous actions in background, as silent as a ghost-->
 		<!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=nodejs" height="32px"></a>&nbsp;-->
 		<!--<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=react" height="32px"></a>&nbsp;-->
 		<!--<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;-->
-		<!--<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rails" height="32px"></a>-->
-			<!--<a href="#"><img width=350 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a><br>-->
+		<!--<a href="https://laravel.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=laravel" height="32px"></a>-->
+			<!--<br><a href="#"><img width=350 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>-->
 	<!--<br><b>Databases</b><br>-->
 		<!--<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;-->
 		<!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=postgresql" height="32px"></a>&nbsp;-->
