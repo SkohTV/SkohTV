@@ -42,6 +42,7 @@ Perform numerous actions in background, as silent as a ghost-->
 		<!--<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=ts" height="32px"></a>-->
 	<!--<br><br><b>Web Frameworks</b><br>-->
 		<!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=nodejs" height="32px"></a>&nbsp;-->
+		<!--<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=next" height="32px"></a>&nbsp;-->
 		<!--<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=react" height="32px"></a>&nbsp;-->
 		<!--<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;-->
 		<!--<a href="https://laravel.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=laravel" height="32px"></a>-->
@@ -71,9 +72,9 @@ Perform numerous actions in background, as silent as a ghost-->
 <p align="center">
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
 	<span>ㅤ</span>
-	<a href="https://twitter.com/SkohDev" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center"/></a>
+	<!--<a href="https://twitter.com/SkohDev" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center"/></a>-->
 	<a href="https://github.com/SkohTV" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white" style="vertical-align:center"/></a>
-	<!-- <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a> -->
+	<!--<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a>-->
 	<span>ㅤ</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
 </p>
@@ -82,7 +83,7 @@ Perform numerous actions in background, as silent as a ghost-->
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/movie-camera_1f3a5.png" width="24px"></a>
 	<span>ㅤ</span>
 	<a href="https://youtube.com/@Skoh" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://twitch.tv/SkohTV" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" style="vertical-align:center"/></a>
+	<!--<a href="https://twitch.tv/SkohTV" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" style="vertical-align:center"/></a>-->
 	<a href="https://discord.gg/G8hrncZ" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://twitter.com/SkohTV" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://instagram.com/SkohTV" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
