@@ -68,9 +68,10 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 <p align="center">
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
 	<span>ㅤ</span>
-	<!--<a href="https://twitter.com/SkohDev" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center"/></a>-->
 	<a href="https://github.com/SkohTV" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://www.linkedin.com/in/noé-lorret-despret-b5631926b/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://www.hackerrank.com/Skoh_" target="_blank"><img alt="" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://www.codewars.com/users/username" target="_blank"><img alt="" src="https://img.shields.io/badge/CodeWars-%23B1361E.svg?logo=CodeWars&logoColor=white" style="vertical-align:center"/></a>
 	<span>ㅤ</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
 </p>
@@ -88,6 +89,13 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/movie-camera_1f3a5.png" width="24px"></a>
 </p>
 
+
+<p align="center">
+	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/computer-disc_1f4bd.png" width="24px"></a>
+	<span>ㅤ</span>
+	<span>ㅤ</span>
+	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/computer-disc_1f4bd.png" width="24px"></a>
+</p>
 
 
 
