@@ -44,7 +44,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 		<!--<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=react" height="32px"></a>&nbsp;-->
 		<!--<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;-->
 		<!--<a href="https://laravel.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=laravel" height="32px"></a>-->
-			<a href="#"><img width=350 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
+			<br><a href="#"><img width=350 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
 	<br><b>Databases</b><br>
 		<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
 		<!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=postgresql" height="32px"></a>&nbsp;-->
