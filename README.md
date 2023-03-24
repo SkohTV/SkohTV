@@ -20,6 +20,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 
 
 <p align=center><div>
+<<<<<<< HEAD
 			<a href="#"><img align=right width=35% src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a>
 	<br><b>Languages</b><br>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
@@ -58,7 +59,6 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<!--<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=git" height="32px"></a>&nbsp;-->
 	<!--<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=docker" height="32px"></a>-->
 <br><div></p><br>
-
 
 
 
