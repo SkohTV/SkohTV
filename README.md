@@ -11,8 +11,8 @@ Hi, I'm a first year student in Computer Science, doing a bunch of personnal pro
 ### <a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=python,mongodb" height="16px"></a>
 Small all-in-one Discord bot written in Python, only running in my Discord server
 
-<!--### <a href="https://github.com/SkohTV/phantom-actions" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Phantom](https://github.com/SkohTV/phantom-actions)&nbsp;<a href="https://github.com/SkohTV/phantom-actions" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=ts,nodejs,redis,googlecloud" height="16px"></a>
-Perform numerous actions in background, as silent as a ghost-->
+### <a href="https://github.com/SkohTV/phantom-actions" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Phantom](https://github.com/SkohTV/phantom-actions)&nbsp;<a href="https://github.com/SkohTV/phantom-actions" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=ts,nodejs,redis,googlecloud" height="16px"></a>
+Perform numerous actions in background, as silent as a ghost
 
 
 <br>
