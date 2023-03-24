@@ -20,7 +20,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 
 
 <p align=center><div><br>
-		<a href="#"><img align=right width=35% src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a>
+		<a href="#"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a>
 	<b>Languages</b><br>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
 	<a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
@@ -43,7 +43,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<!--<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=react" height="32px"></a>&nbsp;-->
 	<!--<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;-->
 	<!--<a href="https://laravel.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=laravel" height="32px"></a>-->
-		<br><a href="#"><img width=35% align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
+		<br><a href="#"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
 <br><b>Databases</b><br>
 	<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
 	<!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=postgresql" height="32px"></a>&nbsp;-->
