@@ -58,7 +58,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 		<!--<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
 		<!--<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=git" height="32px"></a>&nbsp;-->
 		<!--<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=docker" height="32px"></a>-->
-<br><div></p><br>
+<br><br><div></p>
 
 
 
