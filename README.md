@@ -80,21 +80,12 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/movie-camera_1f3a5.png" width="24px"></a>
 	<span>ㅤ</span>
 	<a href="https://youtube.com/@Skoh" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center"/></a>
-	<!--<a href="https://twitch.tv/SkohTV" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" style="vertical-align:center"/></a>-->
 	<a href="https://discord.gg/G8hrncZ" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://twitter.com/SkohTV" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://instagram.com/SkohTV" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://tiktok.com/@skohtv" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" style="vertical-align:center"/></a>
 	<span>ㅤ</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/movie-camera_1f3a5.png" width="24px"></a>
-</p>
-
-
-<p align="center">
-	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/computer-disc_1f4bd.png" width="24px"></a>
-	<span>ㅤ</span>
-	<span>ㅤ</span>
-	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/computer-disc_1f4bd.png" width="24px"></a>
 </p>
 
 
