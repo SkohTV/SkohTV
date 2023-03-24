@@ -19,9 +19,9 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 
 
 
-<p align=center><div><br>
+<p align=center><div>
 <a href="#"><img width=350 align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true></a>
-	<b>Languages</b><br>
+	<br><b>Languages</b><br>
 		<!--<a href="#"><img width=350 align=right src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=8&theme=onedark&layout=compact&hide_border=true&hide=html,css,less,sass,shell,makefile></a>-->
 				<a href="https://www.python.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
 		<a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
