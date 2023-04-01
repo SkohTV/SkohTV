@@ -11,6 +11,9 @@ Hi, I'm a first year student in Computer Science, doing a bunch of personnal pro
 ### <a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=python,mongodb" height="16px"></a>
 Small all-in-one Discord bot written in Python, only running in my Discord server
 
+<!--### <a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=typescript,mongodb,redis" height="16px"></a>
+All-in-one Discord bot written in TypeScript, managing my Discord server.-->
+
 
 <br>
 
