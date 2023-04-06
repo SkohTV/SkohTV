@@ -8,7 +8,7 @@ Hi, I'm a first year student in Computer Science, doing a bunch of personnal pro
 ## 👨‍💻 Projects
 
 
-### <a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=python,mongodb" height="16px"></a>
+### <a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="https://github.com/SkohTV/Quantum-bot" text-decoration="none"><img alt="" src ="https://skillicons.dev/icons?i=python,mongodb,redis" height="16px"></a>
 Small all-in-one Discord bot written in Python, only running in my Discord server
 
 
@@ -26,7 +26,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
 	<!--<a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cpp" height="32px"></a>&nbsp;-->
 	<!--<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rust" height="32px"></a>-->
-	<!--<a href="https://www.java.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;-->
+	<!--<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=scala" height="32px"></a>&nbsp;-->
 	<!--<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=elixir" height="32px"></a>&nbsp;-->
 	<!--<a href="https://ziglang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp;-->
 	<!--<a href="https://clojure.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=clojure" height="32px"></a>-->
@@ -48,6 +48,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
 	<!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=postgresql" height="32px"></a>&nbsp;-->
 	<a href="https://redis.io" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp;
+	<!--<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=firebase" height="32px"></a>&nbsp;	-->
 	<!--<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=aws" height="32px"></a>&nbsp;-->
 	<!--<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=googlecloud" height="32px"></a>&nbsp;-->
 	<!--<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=azure" height="32px"></a>-->
