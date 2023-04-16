@@ -8,7 +8,7 @@ Hi, I'm a first year student in Computer Science, doing a bunch of personnal pro
 ## 👨‍💻 Projects
 
 
-### <a href="#"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="https://github.com/SkohTV/Quantum-bot"><img alt="" src ="https://skillicons.dev/icons?i=python,mongodb,redis" height="16px"></a>
+### <a href="#"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="#"><img alt="" src ="https://skillicons.dev/icons?i=python,mongodb,redis" height="16px"></a>
 Small all-in-one Discord bot written in Python, only running in my Discord server
 
 
