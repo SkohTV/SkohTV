@@ -26,10 +26,10 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
 	<!--<a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=cpp" height="32px"></a>&nbsp;-->
 	<!--<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=rust" height="32px"></a>-->
-	<!--<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=scala" height="32px"></a>&nbsp;-->
+	<!--<a href="https://www.java.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;-->
 	<!--<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=elixir" height="32px"></a>&nbsp;-->
-	<!--<a href="https://ziglang.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp;-->
-	<!--<a href="https://clojure.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=clojure" height="32px"></a>-->
+	<!--<a href="https://clojure.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=clojure" height="32px"></a>&nbsp;-->
+	<!--<a href="https://go.dev" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=go" height="32px"></a>-->
 <br><br><b>Web Developpement</b><br>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=css" height="32px"></a>&nbsp;
@@ -40,9 +40,8 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 <br><br><b>Web Frameworks</b><br>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=nodejs" height="32px"></a>&nbsp;
 	<!--<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=next" height="32px"></a>&nbsp;-->
-	<!--<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=react" height="32px"></a>&nbsp;-->
-	<!--<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;-->
-	<!--<a href="https://laravel.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=laravel" height="32px"></a>-->
+	<!--<a href="https://laravel.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=laravel" height="32px"></a>&nbsp;-->
+	<!--<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=tailwind" height="32px"></a>-->
 		<br><a href="#"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
 <br><b>Databases</b><br>
 	<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img alt="" src ="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
@@ -72,7 +71,6 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="https://github.com/SkohTV" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://www.linkedin.com/in/noé-lorret-despret-b5631926b/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://www.hackerrank.com/Skoh_" target="_blank"><img alt="" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://www.codewars.com/users/Skoh" target="_blank"><img alt="" src="https://img.shields.io/badge/CodeWars-%23B1361E.svg?logo=CodeWars&logoColor=white" style="vertical-align:center"/></a>
 	<span>ㅤ</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
 </p>
