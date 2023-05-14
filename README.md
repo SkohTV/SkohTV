@@ -49,10 +49,10 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<!--<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;-->
 	<!--<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>&nbsp;-->
 	<!--<a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unreal" height="32px"></a>&nbsp;-->
-<!--<br><br><b>Miscellaneous</b><br>-->
-	<!--<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;-->
+<br><br><b>Miscellaneous</b><br>
+	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
 	<!--<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
-	<!--<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>&nbsp;-->
+	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>&nbsp;
 	<!--<a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" height="32px"></a>&nbsp;-->
 	<!--<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;-->
 <br><div></p><br>
