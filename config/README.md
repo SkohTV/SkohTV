@@ -18,16 +18,14 @@
 
 
 🔸 <u>**Arch Linux**</u><br>
-**->** [Polybar](https://github.com/polybar/polybar)<br>
 **->** [Dunst](https://github.com/dunst-project/dunst)<br>
 **->** [Rofi](https://github.com/davatorium/rofi)<br>
 **->** [eww](https://github.com/elkowar/eww)<br>
 
 🔸 <u>**Display**</u><br>
-**->** [i3](https://github.com/i3/i3)<br>
-**->** [i3lock](https://github.com/Raymo111/i3lock-color)<br>
-**->** [xautolock](https://github.com/l0b0/xautolock)<br>
-**->** [xborders](https://github.com/deter0/xborder)<br>
+**->** Wayland
+**->** Hyprland
+**->** Waybar
 
 🔸 <u>**Shell**</u><br>
 **->** [Alacritty](https://github.com/alacritty/alacritty)<br>
@@ -61,6 +59,7 @@
 🔹 <u>**Chill**</u><br>
 **->** [cbonsai](https://gitlab.com/jallbrit/cbonsai)<br>
 **->** [rainfall](https://github.com/alpin111/rainfall)<br>
+**->** [ASCIIquarium](https://github.com/cmatsuoka/asciiquarium)<br>
 **->** [pipes](https://github.com/pipeseroni/pipes.sh)<br>
 **->** [fortune]<br>
 **->** [cowsay]<br> <!-- https://www.reddit.com/r/commandline/comments/xm3q72/finally_found_a_practical_usage_about_cowsay_with/ -->
@@ -92,6 +91,9 @@
 **->** <br> <!-- JVM / Erlang / LLVM / V8 -->
 
 
+<br>
+
+
 ```
 ┌──[void@arch]-[ᐱ] ~/Documents/Github
 └─$ echo "Hello World !"
@@ -103,6 +105,7 @@ Custom mouse
 <br>
 
 https://www.reddit.com/r/unixporn/comments/13bvcrw/i3_my_rice_is_maturing_nicely_after_1_month_of/<br>
+https://www.reddit.com/r/unixporn/comments/13lrz09/hyprland_and_eww_people_tell_me_i_should_go_touch/<br>
 https://youtu.be/sHQFGhTiyk0?t=592 | https://github.com/ericmurphyxyz/dotfiles<br>
 
 
