@@ -1,4 +1,4 @@
-## 📌 Summary
+<!--## 📌 Summary
 
 - [📌 Summary](#-summary)
 - [✨ About Me](#-about-me)
@@ -165,4 +165,4 @@ Blablabla
 ## ☎️ Contact
 
 Blablabla
-
+-->
