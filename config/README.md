@@ -30,7 +30,7 @@
 🔸 <u>**Shell**</u><br>
 **->** [Alacritty](https://github.com/alacritty/alacritty)<br>
 **->** [tmux](https://github.com/tmux/tmux/wiki)<br>
-**->** [fish](https://github.com/fish-shell/fish-shell)<br>
+**->** [zsh](https://github.com/z-shell)<br>
 **->** [lf](https://github.com/gokcehan/lf)<br>
 
 🔸 <u>**Neovim**</u><br>
@@ -94,9 +94,10 @@
 <br>
 
 
+Exemple : 
 ```
-┌──[void@arch]-[ᐱ] ~/Documents/Github
-└─$ echo "Hello World !"
+┌──[void@neovim]-[ᐱ] ~/Documents/Github
+└─$ echo "Hello World"
 ```
 Custom mouse
 
