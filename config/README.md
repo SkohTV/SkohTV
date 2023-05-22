@@ -74,6 +74,7 @@
 **->** [bat](https://github.com/sharkdp/bat)<br>
 **->** [fzf](https://github.com/junegunn/fzf)<br>
 **->** [curl](https://curl.se)<br>
+**->** git<br>
 **->** 7-zip<br>
 
 🔹 <u>**Langs**</u><br>
