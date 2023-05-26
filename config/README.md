@@ -23,9 +23,9 @@
 **->** [eww](https://github.com/elkowar/eww)<br>
 
 🔸 <u>**Display**</u><br>
-**->** Wayland
-**->** Hyprland
-**->** Waybar
+**->** Wayland<br>
+**->** Hyprland<br>
+**->** Waybar<br>
 
 🔸 <u>**Shell**</u><br>
 **->** [Alacritty](https://github.com/alacritty/alacritty)<br>
