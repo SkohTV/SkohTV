@@ -35,7 +35,8 @@
 
 🔸 <u>**Neovim**</u><br>
 **->** [NeoVim](https://github.com/neovim/neovim) (+ check baron img meme)<br>
-**->** [Harpoon](https://github.com/ThePrimeagen/harpoon)<br>
+**->** [packer.nvim](https://github.com/wbthomason/packer.nvim)<br>
+
 
 
 <br>
@@ -110,5 +111,9 @@ https://www.reddit.com/r/unixporn/comments/13bvcrw/i3_my_rice_is_maturing_nicely
 https://www.reddit.com/r/unixporn/comments/13lrz09/hyprland_and_eww_people_tell_me_i_should_go_touch/<br>
 https://youtu.be/sHQFGhTiyk0?t=592 | https://github.com/ericmurphyxyz/dotfiles<br>
 
+https://github.com/ThePrimeagen/init.lua<br>
+https://github.com/ChristianChiarulli/nvim<br>
+https://cdn.discordapp.com/attachments/870267753779560549/1100192556240879687/IMG_1608.jpg<br>
+<!-- copilot and nvim-web-devicons -->
 
 https://cht.sh
