@@ -80,13 +80,12 @@
 
 🔹 <u>**Langs**</u><br>
 **->** python3 / pip / pylint / cython<br> <!-- Python / Cython / Mojo -->
-**->** gcc / g++ / gdb<br> <!-- C / C++ -->
-**->** <br> <!-- Java / Kotlin / Scala -->
+**->** gcc / g++ / gdb<br> <!-- Carbon / C / C++ -->
 **->** <br> <!-- Rust -->
+**->** <br> <!-- Java -->
 **->** <br> <!-- C# -->
 **->** deno / yarn / eslint / typescript<br> <!-- Javascript / Typescript -->
 **->** <br> <!-- PhP -->
-**->** <br> <!-- Elixir -->
 **->** <br> <!-- Golang -->
 **->** cmake<br> <!-- Utils -->
 **->** <br> <!-- Assembly -->
@@ -95,25 +94,30 @@
 
 <br>
 
-
-Exemple : 
+- Shell :
 ```
 ┌──[void@neovim]-[ᐱ] ~/Documents/Github
 └─$ echo "Hello World"
 ```
-Custom mouse
+- Custom mouse
+
 
 
 <br>
 <br>
 
+
+Cool stuff<br>
 https://www.reddit.com/r/unixporn/comments/13bvcrw/i3_my_rice_is_maturing_nicely_after_1_month_of/<br>
 https://www.reddit.com/r/unixporn/comments/13lrz09/hyprland_and_eww_people_tell_me_i_should_go_touch/<br>
+https://www.reddit.com/r/unixporn/comments/13vh4ed/hyprland_things_that_make_you_go_eww/<br>
 https://youtu.be/sHQFGhTiyk0?t=592 | https://github.com/ericmurphyxyz/dotfiles<br>
 
+Neovim<br>
 https://github.com/ThePrimeagen/init.lua<br>
 https://github.com/ChristianChiarulli/nvim<br>
 https://cdn.discordapp.com/attachments/870267753779560549/1100192556240879687/IMG_1608.jpg<br>
 <!-- copilot and nvim-web-devicons -->
 
+Other<br>
 https://cht.sh
