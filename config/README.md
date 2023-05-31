@@ -84,7 +84,7 @@
 **->** <br> <!-- Rust -->
 **->** <br> <!-- Java -->
 **->** <br> <!-- C# -->
-**->** deno / yarn / eslint / typescript<br> <!-- Javascript / Typescript -->
+**->** deno / pnpm / eslint / typescript<br> <!-- Javascript / Typescript -->
 **->** <br> <!-- PhP -->
 **->** <br> <!-- Golang -->
 **->** cmake<br> <!-- Utils -->
@@ -100,6 +100,17 @@
 └─$ echo "Hello World"
 ```
 - Custom mouse
+
+- Sway :<br>
+1 - Process / infos / music<br>
+2 - App menu + wp<br>
+3 - Chromium travail<br>
+4 - Neovim<br>
+5 - Snail zsh<br>
+6 - Discord<br>
+7 - Chromium perso<br>
+
+
 
 
 
