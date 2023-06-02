@@ -59,6 +59,7 @@
 🔸 <u>**On Me**</u>
 - [ ] [Food Backpack]()
 - [ ] [PC Backpack]()
+- [ ] [Tech case]()
 - [ ] [Smartwatch]()
 - [ ] [Phone]()
 
