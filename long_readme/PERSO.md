@@ -1,16 +1,15 @@
 🔸 <u>**Laptop**</u>
-- [ ] [Framework Computer](https://frame.work)
-- [ ] [Sacoche PC](https://www.amazon.fr/dp/B08T5Y8G4M?th=1)
-- [x] [Tissu Microfibre](https://www.amazon.fr/dp/B07TV4VZBP)
+- [ ] [Framework Computer](https://frame.work) (1.3kg | 2000€)
+- [ ] [Sacoche PC](https://www.amazon.fr/dp/B08T5Y8G4M?th=1) (300g | 16€)
+- [x] [Tissu Microfibre](https://www.amazon.fr/dp/B07TV4VZBP) (Xg | 11€)
 
 <br>
 
 🔸 <u>**Coding Main**</u>
-- [ ] [Wooting Keyboard](https://next.wooting.io/wooting-60he)
-- [ ] [Wireless Mouse]()
-- [ ] [Wireless Headphones](https://www.amazon.fr/dp/B09ZLRCH1H)
-- [ ] [Back Screens]()
-- [ ] [Raspberry Pi]()
+- [ ] [Wooting Keyboard](https://next.wooting.io/wooting-60he) (605g | 200€)
+- [ ] [Wireless Mouse]() (??g | ??€)
+- [ ] [Wireless Headphones](https://www.amazon.fr/dp/B09ZLRCH1H) (500g | 300€)
+- [ ] [Raspberry Pi](https://www.raspberrypi.com)
 - [ ] [USB Hub]()
 
 <br>
