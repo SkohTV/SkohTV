@@ -145,7 +145,7 @@ Class project to learn about html and css
 <br>
 
 **[Quantum Bot](https://github.com/SkohTV/Quantum-bot)** -
-<a href="#year-2022"><img src="https://skillicons.dev/icons?i=py,mongo,redis" height="12px"></a><br>
+<a href="#year-2022"><img src="https://skillicons.dev/icons?i=py" height="12px"></a><br>
 Small all-in-one Discord bot written in Python, only running in my Discord server
 
 
