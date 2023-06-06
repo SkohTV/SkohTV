@@ -12,11 +12,11 @@ Hi, I'm a first year student in Computer Science, doing a bunch of personnal pro
 Small all-in-one Discord bot written in Python, only running in my Discord server
 
 
+
 <br>
 
 
 ## 🛠 Tech Stack
-
 
 
 <p align=center><div><br>
@@ -25,7 +25,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<b>Languages</b><br>
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
 	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
-	<!--<a href=""><img src="https://skillicons.dev/icons?i=express" height="32px"></a>-->
+	<!--<a href="https://www.modular.com/mojo"><img src="https://skillicons.dev/icons?i=express" height="32px"></a>-->
 	<!--<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;-->
 	<!--<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>-->
 	<!--<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;-->
@@ -53,7 +53,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 <br><b>Softwares</b><br>
 	<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>
 	<!--<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>&nbsp;
-	<a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unreal" height="32px"></a>-->
+	<a href="https://www.unrealengine.com"><img src="https://skillicons.dev/icons?i=unreal" height="32px"></a>-->
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
 	<!--<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
@@ -61,11 +61,15 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<!--<a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" height="32px"></a>&nbsp;-->
 	<!--<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="32px"></a>-->
 	<!--<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="16px"></a>-->
-<br><div></p><br>
+<br><div></p>
 
+
+
+<br>
 
 
 ## 🔮 Socials
+
 
 <p align="center">
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
@@ -87,6 +91,9 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<span>ㅤ</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/movie-camera_1f3a5.png" width="24px"></a>
 </p>
+
+<div align=center>
+<a href="#"><img align=center style="border-radius:5px" width=240 src=https://i.ibb.co/hmy2nfd/overcome-1.png></a></div>
 
 
 
