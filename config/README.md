@@ -1,7 +1,7 @@
 # Full Arch Setup
 
 ## Install
-`./install.sh`
+`./install.zsh`
 
 
 
@@ -26,7 +26,7 @@
 🔸 <u>**Display**</u><br>
 **->** Wayland<br>
 **->** Hyprland<br>
-**->** Waybar | [eww](https://github.com/elkowar/eww)<br><br>
+**->** [eww](https://github.com/elkowar/eww)<br><br>
 
 🔸 <u>**Shell**</u><br>
 **->** [Alacritty](https://github.com/alacritty/alacritty)<br>
@@ -102,13 +102,14 @@
 - Custom mouse
 
 - Sway :<br>
-1 - Process / infos / music<br>
-2 - App menu + wp / Obsidian<br>
-3 - Chromium travail<br>
-4 - Neovim<br>
-5 - Snail zsh<br>
-6 - Discord<br>
-7 - Chromium perso<br>
+1 - Process / neofetch / cava<br>
+2 - App menu + wp<br>
+3 - Obsidian<br>
+4 - Chromium travail<br>
+5 - Neovim<br>
+6 - Snail zsh<br>
+7 - Discord<br>
+8 - Chromium perso<br>
 
 
 
