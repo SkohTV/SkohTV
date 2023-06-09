@@ -57,8 +57,9 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
 	<!--<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
-	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>
+	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>&nbsp;
 	<!--<a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" height="32px"></a>&nbsp;-->
+	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>
 	<!--<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="32px"></a>-->
 	<!--<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="16px"></a>-->
 <br><div></p>
