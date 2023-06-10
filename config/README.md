@@ -1,8 +1,5 @@
 # Full Arch Setup
 
-## Install
-`./install.zsh`
-
 
 
 
