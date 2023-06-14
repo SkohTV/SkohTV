@@ -95,6 +95,12 @@
 ```
 ┌──[void@neovim]-[ᐱ] ~/Documents/Github
 └─$ echo "Hello World"
+
+┌──[keter@neovim]-[ᐱ] ~/Documents/Github
+└─$ echo "Hello World"
+
+┌──[qlpth@neovim]-[ᐱ] ~/Documents/Github
+└─$ echo "Hello World"
 ```
 - Custom mouse
 
