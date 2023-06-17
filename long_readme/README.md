@@ -65,7 +65,7 @@ Blablabla
 ## 🛠 Skills
 
 ### Languages
-<a href=""><img src="https://skillicons.dev/icons?i=express" height="32px"></a>
+<a href="https://www.modular.com/mojo"><img src="https://skillicons.dev/icons?i=express" height="32px"></a>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
 <a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
 <a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;

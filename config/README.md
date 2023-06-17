@@ -1,14 +1,13 @@
 # Full Arch Setup
 
-## Install
-`./install.sh`
-
 
 
 
 <br>
 
 ## Setup
+
+*Nothing...*
 
 
 
@@ -20,12 +19,11 @@
 🔸 <u>**Arch Linux**</u><br>
 **->** [Dunst](https://github.com/dunst-project/dunst)<br>
 **->** [Rofi](https://github.com/davatorium/rofi)<br>
-**->** [eww](https://github.com/elkowar/eww)<br>
 
 🔸 <u>**Display**</u><br>
 **->** Wayland<br>
 **->** Hyprland<br>
-**->** Waybar<br>
+**->** [eww](https://github.com/elkowar/eww)<br><br>
 
 🔸 <u>**Shell**</u><br>
 **->** [Alacritty](https://github.com/alacritty/alacritty)<br>
@@ -38,7 +36,6 @@
 **->** [packer.nvim](https://github.com/wbthomason/packer.nvim)<br>
 
 
-
 <br>
 
 
@@ -49,7 +46,6 @@
 **->** Tor Browser<br>
 **->** Metasploit<br>
 **->** Virtual Box (+ windows 11)<br>
-**->** [Youtube Music](https://github.com/th-ch/youtube-music)<br>
 
 🔹 <u>**Hybrid**</u><br>
 **->** [bottom](https://github.com/ClementTsang/bottom)<br>
@@ -80,19 +76,20 @@
 
 🔹 <u>**Langs**</u><br>
 **->** python3 / pip / pylint / cython<br> <!-- Python / Cython / Mojo -->
-**->** gcc / g++ / gdb<br> <!-- Carbon / C / C++ -->
+**->** gcc / g++<br> <!-- Carbon / C / C++ -->
 **->** <br> <!-- Rust -->
 **->** <br> <!-- Java -->
 **->** <br> <!-- C# -->
-**->** deno / pnpm / eslint / typescript<br> <!-- Javascript / Typescript -->
+**->** node / pnpm / eslint / typescript<br> <!-- Javascript / Typescript -->
 **->** <br> <!-- PhP -->
 **->** <br> <!-- Golang -->
-**->** cmake<br> <!-- Utils -->
 **->** <br> <!-- Assembly -->
 **->** <br> <!-- JVM / Erlang / LLVM / V8 -->
+**->** cmake / gdb<br> <!-- Utils -->
 
 
 <br>
+
 
 - Shell :
 ```
@@ -102,13 +99,14 @@
 - Custom mouse
 
 - Sway :<br>
-1 - Process / infos / music<br>
+1 - Process / neofetch / cava<br>
 2 - App menu + wp<br>
-3 - Chromium travail<br>
-4 - Neovim<br>
-5 - Snail zsh<br>
-6 - Discord<br>
-7 - Chromium perso<br>
+3 - Obsidian<br>
+4 - Chromium travail<br>
+5 - Neovim<br>
+6 - Snail zsh<br>
+7 - Discord<br>
+8 - Chromium perso<br>
 
 
 
@@ -121,6 +119,7 @@
 Cool stuff<br>
 https://www.reddit.com/r/unixporn/comments/13bvcrw/i3_my_rice_is_maturing_nicely_after_1_month_of/<br>
 https://www.reddit.com/r/unixporn/comments/13lrz09/hyprland_and_eww_people_tell_me_i_should_go_touch/<br>
+https://www.reddit.com/r/unixporn/comments/13yz5si/hyprland_catppuccin_prevented_me_from_distro/<br>
 https://www.reddit.com/r/unixporn/comments/13vh4ed/hyprland_things_that_make_you_go_eww/<br>
 https://youtu.be/sHQFGhTiyk0?t=592 | https://github.com/ericmurphyxyz/dotfiles<br>
 
