@@ -71,6 +71,7 @@
 **->** [bat](https://github.com/sharkdp/bat)<br>
 **->** [fzf](https://github.com/junegunn/fzf)<br>
 **->** [curl](https://curl.se)<br>
+**->** [glow](https://github.com/charmbracelet/glow)<br>
 **->** git<br>
 **->** 7-zip<br>
 
@@ -80,7 +81,7 @@
 **->** <br> <!-- Rust -->
 **->** <br> <!-- Java -->
 **->** <br> <!-- C# -->
-**->** node / pnpm / eslint / typescript<br> <!-- Javascript / Typescript -->
+**->** node / pnpm / typescript<br> <!-- Javascript / Typescript -->
 **->** <br> <!-- PhP -->
 **->** <br> <!-- Golang -->
 **->** <br> <!-- Assembly -->
