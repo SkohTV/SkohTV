@@ -76,6 +76,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
 	<span>ㅤ</span>
 	<a href="https://github.com/SkohTV" target="_blank"><img src="https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://codepen.io/SkohTV" target="_blank"><img src="https://img.shields.io/badge/CodePen-%23212121.svg?logo=CodePen&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://www.linkedin.com/in/noé-lorret-despret-650721279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
 	<span>ㅤ</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
