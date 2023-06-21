@@ -1,4 +1,4 @@
-<!--## 📌 Summary
+## 📌 Summary
 
 - [📌 Summary](#-summary)
 - [✨ About Me](#-about-me)
@@ -6,12 +6,6 @@
 	- [High School](#high-school)
 	- [ISEN School of Engineering](#isen-school-of-engineering)
 - [🔮 Interests](#-interests)
-- [🛠 Skills](#-skills)
-	- [Languages](#languages)
-	- [Web Developpement](#web-developpement)
-	- [Databases](#databases)
-	- [Softwares](#softwares)
-	- [Miscellaneous](#miscellaneous)
 - [👨‍💻 Projects](#-projects)
 	- [Year 2023](#year-2023)
 	- [Year 2022](#year-2022)
@@ -62,7 +56,7 @@ Blablabla
 
 
 
-## 🛠 Skills
+<!--## 🛠 Skills
 
 ### Languages
 <a href="https://www.modular.com/mojo"><img src="https://skillicons.dev/icons?i=express" height="32px"></a>
@@ -102,11 +96,11 @@ Blablabla
 <a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>&nbsp;
 <a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" height="32px"></a>&nbsp;
 <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="32px"></a>
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="16px"></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="16px"></a>-->
 
 
 
-<br>
+<!--<br>-->
 
 
 
@@ -166,4 +160,4 @@ Blablabla
 
 ## ☎️ Contact
 
-Blablabla-->
+Blablabla
