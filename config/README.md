@@ -7,8 +7,7 @@
 
 ## Setup
 
-*Nothing...*
-
+**->** [exa](https://github.com/ogham/exa) (+ icons)<br>
 
 
 <br>
@@ -64,7 +63,6 @@
 
 🔹 <u>**CLI Tools**</u><br>
 **->** [ripgrep](https://github.com/BurntSushi/ripgrep)<br>
-**->** [exa](https://github.com/ogham/exa) (+ icons)<br>
 **->** [gh](https://cli.github.com)<br>
 **->** [neofetch](https://github.com/dylanaraps/neofetch)<br>
 **->** [onefetch](https://github.com/o2sh/onefetch)<br>
