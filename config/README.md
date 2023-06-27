@@ -27,7 +27,7 @@
 *Credits to creators*
 
 <u>**PC**</u><br>
-\- [Hololive Bad Ending Ame](hthttps://twitter.com/QUASARCAKE/status/1594419402392600577)	->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
+\- [Hololive Bad Ending Ame](https://twitter.com/QUASARCAKE/status/1594419402392600577)		->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
 \- [Hololive Bad Ending Calli](https://twitter.com/QUASARCAKE/status/1590040565680570368)	->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
 \- [Hololive Bad Ending Gura](https://twitter.com/QUASARCAKE/status/1584596143962755072)	->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
 \- [Hololive Bad Ending Ina](https://twitter.com/QUASARCAKE/status/1587095509071982592)		->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
