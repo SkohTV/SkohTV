@@ -15,21 +15,24 @@
 
 ## To Add
 
-
 🔸 <u>**Arch Linux**</u><br>
 **->** [Dunst](https://github.com/dunst-project/dunst)<br>
 **->** [Rofi](https://github.com/davatorium/rofi)<br>
 
 🔸 <u>**Display**</u><br>
-**->** Wayland<br>
-**->** Hyprland<br>
-**->** [eww](https://github.com/elkowar/eww)<br><br>
+**->** [Sway](https://github.com/swaywm/sway)<br>
+**->** Polybar ? (or eww)<br>
+**->** [eww](https://github.com/elkowar/eww)<br>
 
 🔸 <u>**Shell**</u><br>
 **->** [Alacritty](https://github.com/alacritty/alacritty)<br>
 **->** [tmux](https://github.com/tmux/tmux/wiki)<br>
 **->** [zsh](https://github.com/z-shell)<br>
 **->** [lf](https://github.com/gokcehan/lf)<br>
+**->** [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)<br>
+
+🔸 <u>**Color Palette**</u><br>
+**->** [Catppuccin](https://github.com/catppuccin)<br>
 
 🔸 <u>**Neovim**</u><br>
 **->** [NeoVim](https://github.com/neovim/neovim) (+ check baron img meme)<br>
@@ -48,10 +51,12 @@
 **->** Virtual Box (+ windows 11)<br>
 
 🔹 <u>**Hybrid**</u><br>
-**->** [bottom](https://github.com/ClementTsang/bottom)<br>
-**->** [lazyGit](https://github.com/jesseduffield/lazygit)<br>
+**->** [btop](https://github.com/aristocratos/btop)<br>
+**->** [GitUI](https://github.com/extrawurst/gitui)<br>
 **->** [Cava](https://github.com/karlstav/cava)<br>
 **->** [Nap](https://github.com/maaslalani/nap)<br>
+**->** [YTB Music Desktop](https://github.com/th-ch/youtube-music)<br>
+**->** [ImHex](https://github.com/WerWolv/ImHex)<br>
 
 🔹 <u>**Chill**</u><br>
 **->** [cbonsai](https://gitlab.com/jallbrit/cbonsai)<br>
@@ -59,7 +64,7 @@
 **->** [ASCIIquarium](https://github.com/cmatsuoka/asciiquarium)<br>
 **->** [pipes](https://github.com/pipeseroni/pipes.sh)<br>
 **->** [fortune]<br>
-**->** [cowsay]<br> <!-- https://www.reddit.com/r/commandline/comments/xm3q72/finally_found_a_practical_usage_about_cowsay_with/ -->
+**->** [cowsay]<br>
 **->** [lolcat](https://github.com/busyloop/lolcat)<br>
 
 🔹 <u>**CLI Tools**</u><br>
@@ -111,9 +116,8 @@
 3 - Obsidian<br>
 4 - Chromium travail<br>
 5 - Neovim<br>
-6 - Snail zsh<br>
-7 - Discord<br>
-8 - Chromium perso<br>
+6 - Discord + zsh<br>
+7 - Chromium perso<br>
 
 
 
