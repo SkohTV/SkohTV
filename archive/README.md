@@ -16,27 +16,35 @@
 ## To Add
 
 🔸 <u>**Arch Linux**</u><br>
+**->** [Sway](https://github.com/swaywm/sway)<br>
+**->** [eww](https://github.com/elkowar/eww)<br>
 **->** [Dunst](https://github.com/dunst-project/dunst)<br>
 **->** [Rofi](https://github.com/davatorium/rofi)<br>
-
-🔸 <u>**Display**</u><br>
-**->** [Sway](https://github.com/swaywm/sway)<br>
-**->** Polybar ? (or eww)<br>
-**->** [eww](https://github.com/elkowar/eww)<br>
+**->** [Catppuccin](https://github.com/catppuccin)<br>
+**->** [Alacritty](https://github.com/alacritty/alacritty)<br>
+**->** [Starship](https://github.com/starship/starship)<br>
 
 🔸 <u>**Shell**</u><br>
-**->** [Alacritty](https://github.com/alacritty/alacritty)<br>
-**->** [tmux](https://github.com/tmux/tmux/wiki)<br>
 **->** [zsh](https://github.com/z-shell)<br>
-**->** [lf](https://github.com/gokcehan/lf)<br>
+**->** [Antigen](https://github.com/zsh-users/antigen)<br>
+**->** [zsh-completions](https://github.com/zsh-users/zsh-completions)<br>
+**->** [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)<br>
+**->** [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)<br>
 **->** [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)<br>
 
-🔸 <u>**Color Palette**</u><br>
-**->** [Catppuccin](https://github.com/catppuccin)<br>
-
 🔸 <u>**Neovim**</u><br>
-**->** [NeoVim](https://github.com/neovim/neovim) (+ check baron img meme)<br>
+**->** [NeoVim](https://github.com/neovim/neovim)<br>
 **->** [packer.nvim](https://github.com/wbthomason/packer.nvim)<br>
+**->** nvim-cmp<br>
+**->** treesitter<br>
+**->** luasnip<br>
+**->** vim-fugitive<br>
+**->** telescope<br>
+**->** harpoon<br>
+**->** lspconfig<br>
+**->** undotree<br>
+**->** mason<br>
+**->** refactoring<br>
 
 
 <br>
@@ -48,15 +56,18 @@
 **->** Chromium<br>
 **->** Tor Browser<br>
 **->** Metasploit<br>
+**->** [Ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+**->** [ImHex](https://github.com/WerWolv/ImHex)<br>
+**->** [YTB Music Desktop](https://github.com/th-ch/youtube-music)<br>
 **->** Virtual Box (+ windows 11)<br>
 
 🔹 <u>**Hybrid**</u><br>
+**->** [tmux](https://github.com/tmux/tmux/wiki)<br>
 **->** [btop](https://github.com/aristocratos/btop)<br>
 **->** [GitUI](https://github.com/extrawurst/gitui)<br>
 **->** [Cava](https://github.com/karlstav/cava)<br>
 **->** [Nap](https://github.com/maaslalani/nap)<br>
-**->** [YTB Music Desktop](https://github.com/th-ch/youtube-music)<br>
-**->** [ImHex](https://github.com/WerWolv/ImHex)<br>
+**->** [lf](https://github.com/gokcehan/lf)<br>
 
 🔹 <u>**Chill**</u><br>
 **->** [cbonsai](https://gitlab.com/jallbrit/cbonsai)<br>
