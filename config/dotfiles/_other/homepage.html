@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48px' height='48px'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' stroke-width='3' d='M13.4,13.8l-3.6,2.9c-1.4,1.1-2.3,2.9-2.3,4.7v18.1c0,1.1,0.9,2,2,2h20'%3E%3C/path%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' stroke-width='3' d='M35,41.5h3.5c1.1,0,2-0.9,2-2V21.4c0-1.8-0.8-3.6-2.3-4.7L24.6,6c-0.4-0.3-0.9-0.3-1.2,0l-4.6,3.6'%3E%3C/path%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' stroke-width='3' d='M18.5,35.7v-8.2c0-0.6,0.4-1,1-1h8.9c0.6,0,1,0.4,1,1v14'%3E%3C/path%3E%3C/svg%3E">
+	<title>Homepage</title>
+
+	<script>
+		function realtimeClock() {
+			var clock = new Date();
+			var hrs = clock.getHours();
+			var mins = clock.getMinutes();
+			var amPm = ( hrs < 12) ? "AM" : "PM";
+	
+			hrs = (hrs > 12) ? hrs - 12 : hrs;
+			hrs = ("0" + hrs).slice(-2);
+			mins = ("0" + mins).slice(-2);
+	
+			document.getElementById('clock').innerHTML = hrs + ":" + mins + " " + amPm;
+			var t = setTimeout(realtimeClock, 500);
+		}
+		function pickColor() {
+			const choice = ["rosewater", "flamingo", "pink", "mauve", "red", "maroon", "peach", "yellow", "green", "teal", "sky", "sapphire", "blue", "lavender"];
+			const index = Math.floor(Math.random() * choice.length);
+			const color = "var(--ctp-macchiato-" + choice[index] + ")";
+			document.documentElement.style.setProperty('--color-link', color);
+			document.documentElement.style.setProperty('--color-clock', color);
+		}
+		pickColor();
+	</script>
+
+	<style>
+		:root {
+			--ctp-latte-rosewater: #dc8a78;
+			--ctp-frappe-rosewater: #f2d5cf;
+			--ctp-macchiato-rosewater: #f4dbd6;
+			--ctp-mocha-rosewater: #f5e0dc;
+			--ctp-latte-flamingo: #dd7878;
+			--ctp-frappe-flamingo: #eebebe;
+			--ctp-macchiato-flamingo: #f0c6c6;
+			--ctp-mocha-flamingo: #f2cdcd;
+			--ctp-latte-pink: #ea76cb;
+			--ctp-frappe-pink: #f4b8e4;
+			--ctp-macchiato-pink: #f5bde6;
+			--ctp-mocha-pink: #f5c2e7;
+			--ctp-latte-mauve: #8839ef;
+			--ctp-frappe-mauve: #ca9ee6;
+			--ctp-macchiato-mauve: #c6a0f6;
+			--ctp-mocha-mauve: #cba6f7;
+			--ctp-latte-red: #d20f39;
+			--ctp-frappe-red: #e78284;
+			--ctp-macchiato-red: #ed8796;
+			--ctp-mocha-red: #f38ba8;
+			--ctp-latte-maroon: #e64553;
+			--ctp-frappe-maroon: #ea999c;
+			--ctp-macchiato-maroon: #ee99a0;
+			--ctp-mocha-maroon: #eba0ac;
+			--ctp-latte-peach: #fe640b;
+			--ctp-frappe-peach: #ef9f76;
+			--ctp-macchiato-peach: #f5a97f;
+			--ctp-mocha-peach: #fab387;
+			--ctp-latte-yellow: #df8e1d;
+			--ctp-frappe-yellow: #e5c890;
+			--ctp-macchiato-yellow: #eed49f;
+			--ctp-mocha-yellow: #f9e2af;
+			--ctp-latte-green: #40a02b;
+			--ctp-frappe-green: #a6d189;
+			--ctp-macchiato-green: #a6da95;
+			--ctp-mocha-green: #a6e3a1;
+			--ctp-latte-teal: #179299;
+			--ctp-frappe-teal: #81c8be;
+			--ctp-macchiato-teal: #8bd5ca;
+			--ctp-mocha-teal: #94e2d5;
+			--ctp-latte-sky: #04a5e5;
+			--ctp-frappe-sky: #99d1db;
+			--ctp-macchiato-sky: #91d7e3;
+			--ctp-mocha-sky: #89dceb;
+			--ctp-latte-sapphire: #209fb5;
+			--ctp-frappe-sapphire: #85c1dc;
+			--ctp-macchiato-sapphire: #7dc4e4;
+			--ctp-mocha-sapphire: #74c7ec;
+			--ctp-latte-blue: #1e66f5;
+			--ctp-frappe-blue: #8caaee;
+			--ctp-macchiato-blue: #8aadf4;
+			--ctp-mocha-blue: #89b4fa;
+			--ctp-latte-lavender: #7287fd;
+			--ctp-frappe-lavender: #babbf1;
+			--ctp-macchiato-lavender: #b7bdf8;
+			--ctp-mocha-lavender: #b4befe;
+			--ctp-latte-text: #4c4f69;
+			--ctp-frappe-text: #c6d0f5;
+			--ctp-macchiato-text: #cad3f5;
+			--ctp-mocha-text: #cdd6f4;
+			--ctp-latte-subtext1: #5c5f77;
+			--ctp-frappe-subtext1: #b5bfe2;
+			--ctp-macchiato-subtext1: #b8c0e0;
+			--ctp-mocha-subtext1: #bac2de;
+			--ctp-latte-subtext0: #6c6f85;
+			--ctp-frappe-subtext0: #a5adce;
+			--ctp-macchiato-subtext0: #a5adcb;
+			--ctp-mocha-subtext0: #a6adc8;
+			--ctp-latte-overlay2: #7c7f93;
+			--ctp-frappe-overlay2: #949cbb;
+			--ctp-macchiato-overlay2: #939ab7;
+			--ctp-mocha-overlay2: #9399b2;
+			--ctp-latte-overlay1: #8c8fa1;
+			--ctp-frappe-overlay1: #838ba7;
+			--ctp-macchiato-overlay1: #8087a2;
+			--ctp-mocha-overlay1: #7f849c;
+			--ctp-latte-overlay0: #9ca0b0;
+			--ctp-frappe-overlay0: #737994;
+			--ctp-macchiato-overlay0: #6e738d;
+			--ctp-mocha-overlay0: #6c7086;
+			--ctp-latte-surface2: #acb0be;
+			--ctp-frappe-surface2: #626880;
+			--ctp-macchiato-surface2: #5b6078;
+			--ctp-mocha-surface2: #585b70;
+			--ctp-latte-surface1: #bcc0cc;
+			--ctp-frappe-surface1: #51576d;
+			--ctp-macchiato-surface1: #494d64;
+			--ctp-mocha-surface1: #45475a;
+			--ctp-latte-surface0: #ccd0da;
+			--ctp-frappe-surface0: #414559;
+			--ctp-macchiato-surface0: #363a4f;
+			--ctp-mocha-surface0: #313244;
+			--ctp-latte-base: #eff1f5;
+			--ctp-frappe-base: #303446;
+			--ctp-macchiato-base: #24273a;
+			--ctp-mocha-base: #1e1e2e;
+			--ctp-latte-mantle: #e6e9ef;
+			--ctp-frappe-mantle: #292c3c;
+			--ctp-macchiato-mantle: #1e2030;
+			--ctp-mocha-mantle: #181825;
+			--ctp-latte-crust: #dce0e8;
+			--ctp-frappe-crust: #232634;
+			--ctp-macchiato-crust: #181926;
+			--ctp-mocha-crust: #11111b;
+		}
+		:root {
+			--color-bg: var(--ctp-macchiato-crust);
+			--color-sentence: var(--ctp-macchiato-overlay2);
+			--font-clock: 'JetBrainsMono Nerd Font';
+			--font-text: 'JetBrainsMono Nerd Font';
+		}
+		body {
+			font-family: var(--font-text);
+			background: var(--color-bg);
+			color: var(--color-fg);
+			height: 100vh;
+			margin: 0;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+		.time {
+			font-family: var(--font-clock);
+			color: var(--color-clock);
+			font-weight: 900;
+			text-align: center;
+			font-size: 72px;
+		}
+		.sentence {
+			color: var(--color-sentence);
+			text-align: center;
+			margin: 0.5rem 0 3rem;
+			font-size: 16px;
+		}
+		.bookmarks {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-evenly;
+			width: 500px;
+		}
+		li {
+			list-style-type: none;
+			font-family: var(--text-font);
+			font-size: 22px;
+			padding: 2px;
+		}
+		a {
+			transition: 0.2s filter;
+			text-decoration: none;
+			&:link { color: var(--color-link); }
+			&:visited { color: var(--color-link); }
+			&:hover { filter: brightness(60%); }
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="time">
+		<div id="clock"></div>
+	</div>
+
+	<div class="sentence">
+		<div>It's time to get to work!</div>
+	</div>
+
+	<div class="bookmarks">
+		<div>
+			<li><a href="">Outlook</a></li>
+			<li><a href="">Webaurion</a></li>
+		</div>
+		<div>
+			<li><a href="">Github</a></li>
+			<li><a href="">Codepen</a></li>
+		</div>
+		<div>
+			<li><a href="">Youtube</a></li>
+			<li><a href="">Twitter</a></li>
+			<li><a href="">Discord</a></li>
+			<li><a href="">Instagram</a></li>
+			<li><a href="">TikTok</a></li>
+		</div>
+		<div>
+			<li><a href="">Test</a></li>
+			<li><a href="">Test</a></li>
+			<li><a href="">Test</a></li>
+			<li><a href="">Test</a></li>
+		</div>
+	</div>
+
+	<script>realtimeClock();</script>
+</body>
+
+
+</html>

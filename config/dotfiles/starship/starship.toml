@@ -1,0 +1,32 @@
+format = '''
+┌──\[$username@$env_var\]-[󰣇](cyan) $directory$hostname
+└─$shell '''
+
+
+add_newline = true
+
+[username]
+format = '[$user](bold yellow)'
+show_always = true
+
+[hostname]
+ssh_only = true
+format = ' on [$hostname](bold red)'
+
+[directory]
+format = '[$path](bold blue)'
+truncation_length = 0
+
+[env_var]
+format = '[$env_value](bold 2)'
+variable = 'TMUX_CURRENT_SESSION'
+default = 'arch'
+
+[shell]
+zsh_indicator = '\$'
+fish_indicator = '%'
+powershell_indicator = '' 
+cmd_indicator = ''
+unknown_indicator = '?'
+disabled = false
+format = '$indicator'
