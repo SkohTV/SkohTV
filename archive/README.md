@@ -96,7 +96,9 @@
 **->** [Ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
 **->** [ImHex](https://github.com/WerWolv/ImHex)<br>
 **->** [YTB Music Desktop](https://github.com/th-ch/youtube-music)<br>
+**->** [Flameshot](https://github.com/flameshot-org/flameshot)<br>
 **->** Virtual Box (+ windows 11)<br>
+
 
 🔹 <u>**Hybrid**</u><br>
 **->** [tmux](https://github.com/tmux/tmux/wiki)<br>
@@ -127,6 +129,7 @@
 **->** [glow](https://github.com/charmbracelet/glow)<br>
 **->** git<br>
 **->** 7-zip<br>
+**->** [ueberzug++](https://github.com/jstkdng/ueberzugpp)<br>
 
 🔹 <u>**Langs**</u><br>
 **->** python3 / pip / pylint / cython<br> <!-- Python / Cython / Mojo -->
@@ -147,7 +150,7 @@
 
 - Shell :
 ```sh
-┌──[qlpth@neovim]-ᐱ ~/Documents/Github
+┌──[qlpth@zsh] ~/Documents/Github
 └─$ echo "Hello World"
 ```
 - Custom mouse
@@ -157,7 +160,7 @@
 2 - App menu + wp<br>
 3 - Obsidian<br>
 4 - Chromium travail<br>
-5 - Neovim<br>
+5 - zsh<br>
 6 - Discord + zsh<br>
 7 - Chromium perso<br>
 

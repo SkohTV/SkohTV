@@ -1,4 +1,4 @@
-<!--🔸 <u>**Laptop**</u>
+🔸 <u>**Laptop**</u>
 - [ ] [Framework Computer](https://frame.work) (1.3kg | 2000€)
 - [ ] [Sacoche PC](https://www.amazon.fr/dp/B08T5Y8G4M?th=1) (300g | 16€)
 - [x] [Tissus Microfibre](https://www.amazon.fr/dp/B07TV4VZBP) (0g | 11€)
@@ -6,7 +6,7 @@
 <br>
 
 🔸 <u>**Coding Main**</u>
-- [ ] [Wooting Keyboard](https://next.wooting.io/wooting-60he) (605g | 200€)
+- [x] [Wooting Keyboard](https://next.wooting.io/wooting-60he) (605g | 200€)
 - [ ] [Wireless Headphones](https://www.amazon.fr/dp/B09ZLRCH1H) (500g | 300€)
 - [ ] [Raspberry Pi](https://www.raspberrypi.com) (50g | 100€)
 - [ ] [USB Hub](https://www.amazon.fr/dp/B08CKXNJZS) (82g | 50€)
@@ -43,7 +43,7 @@
 <br>
 
 🔸 <u>**HackerKit**</u>
-- [ ] [Flipper Zero Complete](https://lab401.com/products/flipper-zero) (102g | 240€)
+- [x] [Flipper Zero Complete](https://lab401.com/products/flipper-zero) (102g | 240€)
 - [ ] [USB Ninja](https://lab401.com/products/usbninja) (0g | 100€)
 
 <br>
@@ -60,4 +60,4 @@
 - [ ] [Tech case]()
 - [ ] [Water Bottle](https://www.lttstore.com/products/insulated-water-bottle-21oz) (620ml | 30€)
 - [ ] [Smartwatch]()
-- [ ] [Phone]()-->
+- [ ] [Phone]()

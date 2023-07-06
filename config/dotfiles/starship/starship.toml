@@ -1,6 +1,6 @@
 format = '''
-┌──\[$username@$env_var\]-[󰣇](cyan) $directory$hostname
-└─$shell '''
+┌──\[$username@$shell\] $directory$git_branch$hostname
+└─$character '''
 
 
 add_newline = true
@@ -9,24 +9,22 @@ add_newline = true
 format = '[$user](bold yellow)'
 show_always = true
 
+[shell]
+disabled = false
+format = '[$indicator](bold 2)'
+
+[directory]
+read_only = ' 󰌾'
+format = '[$path](bold blue)[$read_only](bold yellow)'
+truncation_length = 0
+
+[git_branch]
+symbol = ' '
+format = '[$symbol](green)'
+
 [hostname]
 ssh_only = true
 format = ' on [$hostname](bold red)'
 
-[directory]
-format = '[$path](bold blue)'
-truncation_length = 0
-
-[env_var]
-format = '[$env_value](bold 2)'
-variable = 'TMUX_CURRENT_SESSION'
-default = 'arch'
-
-[shell]
-zsh_indicator = '\$'
-fish_indicator = '%'
-powershell_indicator = '' 
-cmd_indicator = ''
-unknown_indicator = '?'
-disabled = false
-format = '$indicator'
+[character]
+format = '[\$](cyan)'
