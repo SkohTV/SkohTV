@@ -97,6 +97,7 @@
 **->** [ImHex](https://github.com/WerWolv/ImHex)<br>
 **->** [YTB Music Desktop](https://github.com/th-ch/youtube-music)<br>
 **->** [Flameshot](https://github.com/flameshot-org/flameshot)<br>
+**->** [qFlipper](https://github.com/flipperdevices/qFlipper)<br>
 **->** Virtual Box (+ windows 11)<br>
 
 
