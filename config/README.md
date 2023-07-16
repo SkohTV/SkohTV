@@ -1,11 +1,5 @@
 # Config
 
-## Arch Installation
-- [Chapter 1](https://github.com/SkohTV/SkohTV/blob/main/config/install/chapter-1.md) - Install Arch manually
-- [Chapter 2](https://github.com/SkohTV/SkohTV/blob/main/config/install/chapter-2.md) - Setup core components
-- [Chapter 3](https://github.com/SkohTV/SkohTV/blob/main/config/install/chapter-3.md) - Create the workspace
-- [Chapter 4](https://github.com/SkohTV/SkohTV/blob/main/config/install/chapter-4.md) - Patch last bugs
-
 
 <br>
 
@@ -13,7 +7,7 @@
 ## Config files
 \- [Neovim]() ➜ `a`<br>
 
-\- [Alacritty]() ➜ `a`<br>
+\- [Kitty]() ➜ `a`<br>
 \- [Starship]() ➜ `a`<br>
 
 \- [Sway]() ➜ `a`<br>

@@ -44,7 +44,7 @@
 
 🔸 <u>**HackerKit**</u>
 - [x] [Flipper Zero Complete](https://lab401.com/products/flipper-zero) (102g | 240€)
-- [ ] [USB Ninja](https://lab401.com/products/usbninja) (0g | 100€)
+- [ ] [Wifi Pineapple]() (0g | 0€)
 
 <br>
 
@@ -57,7 +57,15 @@
 🔸 <u>**On Me**</u>
 - [ ] [PC Backpack]()
 - [ ] [Food Backpack]()
-- [ ] [Tech case]()
+- [ ] [Hack5 Bag](https://shop.hak5.org/pages/custom-red-team-field-kit) (0g | 60€)
 - [ ] [Water Bottle](https://www.lttstore.com/products/insulated-water-bottle-21oz) (620ml | 30€)
 - [ ] [Smartwatch]()
 - [ ] [Phone]()
+
+<br>
+
+🔸 <u>**Stickers**</u>
+- [ ] [Hack5](https://shop.hak5.org/collections/mischief-gadgets/products/omg-vinyl-transfer-stickers) (0g | 5€)
+- [ ] [Astolfo](https://www.redbubble.com/fr/i/sticker/astolfo-chibi-fanart-par-horoharo-par-horo-haro/88174962.O9UDB) (0g | 3€)
+- [ ] [Flipper Zero]() ( )
+
