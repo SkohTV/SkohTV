@@ -55,7 +55,7 @@
 <br>
 
 🔸 <u>**On Me**</u>
-- [ ] [PC Backpack]()
+- [ ] [PC Backpack](https://www.lttstore.com/products/backpack)
 - [ ] [Food Backpack]()
 - [ ] [Hack5 Bag](https://shop.hak5.org/pages/custom-red-team-field-kit) (0g | 60€)
 - [ ] [Water Bottle](https://www.lttstore.com/products/insulated-water-bottle-21oz) (620ml | 30€)

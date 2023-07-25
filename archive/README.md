@@ -9,46 +9,19 @@
 
 *Nothing...*
 
-nano<br>
-sudo<br>
-networkmanager<br>
-dhcpcd<br>
-
-i3-wm<br>
+<!--i3-wm<br>
 xorg<br>
 xorg-xinit<br>
-xorg-setxkbmap<br>
-wget<br>
-zip<br>
-unzip<br>
+xorg-setxkbmap<br>-->
 
-yay<br>
-
-xinput set-prop "ELAN0521:01 04F3:31B1 Touchpad" "libinput Tapping Enabled" 1<br>
+<!--xinput set-prop "ELAN0521:01 04F3:31B1 Touchpad" "libinput Tapping Enabled" 1<br>-->
 
 
-picom<br>
-lxappearance<br>
+<!--picom<br>-->
 
 <!--
 ✅
 -->
-
-File manager ?<br>
-Themes : Candy icons or Beautyline<br>
-
-
-
-v2<br>
-Blackarch<br>
-Kitty -> Alacritty<br>
-Fish -> ZSH + plugins<br>
-
-v3<br>
-bspwm<br>
-
-v4<br>
-Hyprland / Sway<br>
 
 
 <br>
@@ -56,52 +29,75 @@ Hyprland / Sway<br>
 ## To Add
 
 🔸 <u>**Arch Linux**</u><br>
-**->** [i3]() ✅<br>
+**->** [bspwm](https://github.com/baskerville/bspwm)<br>
+**->** [sxhkd](https://github.com/baskerville/sxhkd)<br>
 **->** [eww](https://github.com/elkowar/eww)<br>
-**->** [Dunst](https://github.com/dunst-project/dunst)<br>
-**->** [Kitty](https://github.com/kovidgoyal/kitty) (ctp)✅<br>
-**->** [Starship](https://github.com/starship/starship) (ctp)✅<br>
-**->** [fish](https://github.com/fish-shell/fish-shell) ✅<br>
+**->** [Dunst](https://github.com/dunst-project/dunst) (ctp)<br>
+**->** [Thunar](https://github.com/xfce-mirror/thunar)<br>
 
+🔸 <u>**Terminal**</u><br>
+**->** [Alacritty](https://github.com/alacritty/alacritty) (ctp)<br>
+**->** [Starship](https://github.com/starship/starship) (ctp)<br>
+**->** [zsh](https://github.com/zsh-users/zsh)<br>
+**--->** [antigen](https://github.com/zsh-users/antigen)<br>
+**--->** [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)<br>
+**--->** [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)<br>
+**--->** [fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) (ctp)<br>
+**--->** [zsh-completions](https://github.com/zsh-users/zsh-completions)<br>
 
 🔸 <u>**Style**</u><br>
-**->** [Catppuccin](https://github.com/catppuccin) ✅<br>
-**->** [JetBrains Mono NF](https://github.com/ryanoasis/nerd-fonts) ✅<br>
-**->** [Vimix Cursors White](https://github.com/vinceliuice/Vimix-cursors) ✅<br>
-
+**->** [Catppuccin](https://github.com/catppuccin)<br>
+**->** [JetBrains Mono NF](https://github.com/ryanoasis/nerd-fonts)<br>
+**->** [Vimix Cursors White](https://github.com/vinceliuice/Vimix-cursors)<br>
+**->** [Sweet](https://github.com/EliverLara/Sweet)<br>
+**--->** [Sweet Folders](https://github.com/EliverLara/Sweet-folders)<br>
+**--->** [Candy Icons](https://github.com/EliverLara/candy-icons)<br>
 
 🔸 <u>**Neovim**</u><br>
-**->** [NeoVim](https://github.com/neovim/neovim)<br>
+**->** [NeoVim](https://github.com/neovim/neovim) (ctp)<br>
 
 
 
 <br>
 
 
+🔹 <u>**Mandatory**</u><br>
+**->** [yay](https://github.com/Jguer/yay)<br>
+**->** [nano](https://github.com/madnight/nano)<br>
+**->** [sudo](https://github.com/sudo-project/sudo)<br>
+**->** [networkmanager](https://github.com/NetworkManager/NetworkManager)<br>
+**->** [dhcpcd](https://github.com/pelikan/dhcpd)<br>
+**->** [lxappearance](https://github.com/lxde/lxappearance)<br>
+**->** zip<br>
+**->** unzip<br>
+
+
 🔹 <u>**Apps**</u><br>
 **->** Discord<br>
-**->** [Obsidian](https://github.com/obsidianmd/obsidian-releases)<br>
-**->** [Chromium](https://github.com/chromium/chromium)<br>
+**->** [Obsidian](https://github.com/obsidianmd/obsidian-releases) (ctp)<br>
+**->** [Chromium](https://github.com/chromium/chromium) (ctp)<br>
 **->** [Tor Browser](https://github.com/torproject/tor)<br>
 **->** [Metasploit](https://github.com/rapid7/metasploit-framework)<br>
 **->** [Ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-**->** [ImHex](https://github.com/WerWolv/ImHex)<br>
+**->** [ImHex](https://github.com/WerWolv/ImHex) (ctp)<br>
 **->** [Flameshot](https://github.com/flameshot-org/flameshot)<br>
 **->** [qFlipper](https://github.com/flipperdevices/qFlipper)<br>
+**->** [qBitTorrent](https://github.com/catppuccin/qbittorrent) (ctp)<br>
 **->** Virtual Box (+ windows 11)<br>
 
 🔹 <u>**CLI UI**</u><br>
-**->** [btop](https://github.com/aristocratos/btop)<br>
-**->** [GitUI](https://github.com/extrawurst/gitui)<br>
+**->** [btop](https://github.com/aristocratos/btop) (ctp)<br>
+**->** [GitUI](https://github.com/extrawurst/gitui) (ctp)<br>
 **->** [Nap](https://github.com/maaslalani/nap)<br>
-**->** [fzf](https://github.com/junegunn/fzf)<br>
-**->** [glow](https://github.com/charmbracelet/glow)<br>
+**->** [fzf](https://github.com/junegunn/fzf) (ctp)<br>
+**->** [glow](https://github.com/charmbracelet/glow) (ctp)<br>
+**->** [navi](https://github.com/denisidoro/navi)<br>
 
 🔹 <u>**CLI Tools**</u><br>
-**->** [tmux](https://github.com/tmux/tmux/wiki)<br>
+**->** [tmux](https://github.com/tmux/tmux/wiki) (ctp)<br>
 **->** [exa](https://github.com/ogham/exa)<br>
 **->** [gh](https://github.com/cli/cli)<br>
-**->** [bat](https://github.com/sharkdp/bat)<br>
+**->** [bat](https://github.com/sharkdp/bat) (ctp)<br>
 **->** [curl](https://github.com/curl/curl)<br>
 
 🔹 <u>**Chill**</u><br>
@@ -138,7 +134,7 @@ Hyprland / Sway<br>
 
 
 <br>
-- i3 :<br>
+- bspwm :<br>
 1 - App menu + wp<br>
 2 - Obsidian<br>
 3 - Chromium travail<br>

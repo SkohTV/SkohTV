@@ -7,11 +7,11 @@
 ## Config files
 \- [Neovim]() ➜ `a`<br>
 
-\- [Kitty]() ➜ `a`<br>
+\- [Alacritty]() ➜ `a`<br>
 \- [Starship]() ➜ `a`<br>
 
-\- [Sway]() ➜ `a`<br>
-\- [Eww]() ➜ `a`<br>
+\- [bspwm]() ➜ `a`<br>
+\- [eww]() ➜ `a`<br>
 
 
 <br>
