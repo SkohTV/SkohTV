@@ -5,13 +5,12 @@
 
 
 ## Config files
-\- [Neovim]() ➜ `a`<br>
-
-\- [Alacritty]() ➜ `a`<br>
-\- [Starship]() ➜ `a`<br>
-
-\- [bspwm]() ➜ `a`<br>
-\- [eww]() ➜ `a`<br>
+\- [Kitty]()<br>
+\- [Starship]()<br>
+\- [bspwm]()<br>
+\- [sxhkd]()<br>
+\- [eww]()<br>
+\- [zsh]()<br>
 
 
 <br>
@@ -21,13 +20,14 @@
 *Credits to creators*
 
 <u>**PC**</u><br>
-\- [Hololive Bad Ending Ame](https://twitter.com/QUASARCAKE/status/1594419402392600577)		->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
-\- [Hololive Bad Ending Calli](https://twitter.com/QUASARCAKE/status/1590040565680570368)	->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
-\- [Hololive Bad Ending Gura](https://twitter.com/QUASARCAKE/status/1584596143962755072)	->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
-\- [Hololive Bad Ending Ina](https://twitter.com/QUASARCAKE/status/1587095509071982592)		->	[QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
-\- [Hololive Bad Ending Kiara](https://twitter.com/QUASARCAKE/status/1592576096805195776)	-> [QUASARCAKE](https://twitter.com/QUASARCAKE)<br>
+\- `Hololive_Bad_Ending_Ame.png` ➜ https://twitter.com/QUASARCAKE/status/1594419402392600577<br>
+\- `Hololive_Bad_Ending_Calli.png` ➜ https://twitter.com/QUASARCAKE/status/1590040565680570368<br>
+\- `Hololive_Bad_Ending_Gura.png` ➜ https://twitter.com/QUASARCAKE/status/1584596143962755072<br>
+\- `Hololive_Bad_Ending_Ina.png` ➜ https://twitter.com/QUASARCAKE/status/1587095509071982592<br>
+\- `Hololive_Bad_Ending_Kiara.png` ➜ https://twitter.com/QUASARCAKE/status/1592576096805195776<br>
+\- `Hololive_Advent_Full.jpg` ➜ https://twitter.com/qleleldhcks/status/1684151873698402304<br>
 
 
 <u>**Phone**</u><br>
-\- [M16A1](https://www.pinterest.fr/pin/742601426053169083/)	->	Unknown<br>
-\- [Calli](https://ryuko.tumblr.com/post/715022379063148544)	->	[ryuko](https://ryuko.tumblr.com/post/715022379063148544)<br>
+\- `M16A1_low.jpg` ➜ https://www.pinterest.fr/pin/742601426053169083<br>
+\- `Calli.jpg` ➜ https://www.pinterest.fr/pin/742601426053169083<br>
