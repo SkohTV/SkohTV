@@ -63,7 +63,7 @@ feh<br>
 <!--**->** [Thunar](https://github.com/xfce-mirror/thunar)<br>-->
 
 🔸 <u>**Terminal**</u><br>
-**->** [Kitty](https://github.com/kovidgoyal/kitty) (ctp)<br>
+**->** [Alacritty](https://github.com/alacritty/alacritty) (ctp)<br>
 **->** [Starship](https://github.com/starship/starship) (ctp)<br>
 **->** [zsh](https://github.com/zsh-users/zsh)<br>
 **--->** [antigen](https://github.com/zsh-users/antigen)<br>
