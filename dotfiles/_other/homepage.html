@@ -164,8 +164,29 @@
 		.sentence {
 			color: var(--color-sentence);
 			text-align: center;
-			margin: 0.5rem 0 3rem;
+			margin: 0.5rem 0 1.5rem;
 			font-size: 16px;
+		}
+		form {
+			margin-bottom: 40px;
+		}
+		input {
+			width: 600px;
+			font-family: 'Montserrat', sans-serif;
+			font-size: 16px;
+			padding: 8px 20px 8px 8px;
+			background-color: var(--ctp-macchiato-subtext1);
+			color: var(--ctp-macchiato-surface1);
+			border-radius: 6px;
+			border:none;
+			transition: all .4s;
+		}
+		input:focus {
+			border:none;
+			outline:none;
+			box-shadow: 0 1px 12px #b8c6db;
+			-moz-box-shadow: 0 1px 12px #b8c6db;
+			-webkit-box-shadow: 0 1px 12px #b8c6db;
 		}
 		.bookmarks {
 			display: flex;
@@ -201,6 +222,10 @@
 	<div class="sentence">
 		<div>It's time to get to work!</div>
 	</div>
+
+	<form action="https://www.google.com/search" method="GET">
+		<input type="text" name="q" placeholder="Search Google..." autocomplete="off">
+	</form>
 
 	<div class="bookmarks">
 		<div>
