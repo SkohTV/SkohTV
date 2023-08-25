@@ -7,13 +7,6 @@
 
 ## Setup
 
-*Nothing...*
-
-
-
-<!--xinput set-prop "ELAN0521:01 04F3:31B1 Touchpad" "libinput Tapping Enabled" 1<br>-->+-
-
-
 xorg<br>
 xorg-xinit<br>
 xorg-setxkbmap<br>
@@ -21,11 +14,8 @@ bspwm<br>
 sxhkd<br>
 picom<br>
 feh<br>
+xclip<br>
 
-
-<!--
-✅
--->
 
 
 <br>
@@ -36,7 +26,7 @@ feh<br>
 
 <u>**PC**</u><br>
 \- 99% of all of them ➜ https://twitter.com/QUASARCAKE<br>
-\- `Hololive_Advent.jpg` ➜ https://twitter.com/qleleldhcks/status/1684151873698402304<br>
+\- `61.jpg` ➜ https://twitter.com/qleleldhcks/status/1684151873698402304<br>
 
 
 <u>**Phone**</u><br>
@@ -62,11 +52,6 @@ feh<br>
 **->** [Alacritty](https://github.com/alacritty/alacritty) (ctp)<br>
 **->** [Starship](https://github.com/starship/starship) (ctp)<br>
 **->** [zsh](https://github.com/zsh-users/zsh)<br>
-**--->** [antigen](https://github.com/zsh-users/antigen)<br>
-**--->** [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)<br>
-**--->** [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)<br>
-**--->** [fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) (ctp)<br>
-**--->** [zsh-completions](https://github.com/zsh-users/zsh-completions)<br>
 
 🔸 <u>**Style**</u><br>
 **->** [Catppuccin](https://github.com/catppuccin)<br>
