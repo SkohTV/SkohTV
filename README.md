@@ -73,7 +73,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
 	<span>ㅤ</span>
 	<a href="https://github.com/SkohTV" target="_blank"><img src="https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://codepen.io/SkohTV" target="_blank"><img src="https://img.shields.io/badge/CodePen-%23212121.svg?logo=CodePen&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://stackoverflow.com/users/your-stack-overflow-profile-link"><img src="https://img.shields.io/badge/Stack%20Overflow-FF6600.svg?logo=Stack%20Overflow&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://www.linkedin.com/in/noé-lorret-despret-650721279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
 	<span>ㅤ</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
@@ -84,7 +84,6 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<span>ㅤ</span>
 	<a href="https://youtube.com/@Skoh"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://discord.gg/G8hrncZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://twitter.com/SkohTV"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://instagram.com/SkohTV"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://tiktok.com/@skohtv"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" style="vertical-align:center"/></a>
 	<span>ㅤ</span>
