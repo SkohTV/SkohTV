@@ -1,5 +1,5 @@
 # Hi, I'm Skoh !
-Hi, I'm a first year student in Computer Science, doing a bunch of personnal projects. I'm also a small content creator that makes videos and livestreams on my free time.
+Hi, I'm a second year student in Computer Science, doing a bunch of personnal projects. I'm also a small content creator that makes videos and livestreams on my free time.
 
 
 <br>
@@ -23,20 +23,17 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 		<a href="#"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=10&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake></a>
 <b>Languages</b><br>
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
-	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
 	<!--<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;-->
+	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="32px"></a>
 	<!--<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>-->
 	<!--<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
 	<!--<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;-->
-	<!--<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a>&nbsp;-->
-	<!--<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" height="32px"></a>-->
+	<!--<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a>-->
 <br><br><b>Web Developpement</b><br>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
 	<a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" height="32px"></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;
-	<!--<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="32px"></a>-->
-	<!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="16px"></a>&nbsp;-->
 	<!--<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp;-->
 	<!--<a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" height="32px"></a>-->
 <br><br><b>Databases</b><br>
@@ -45,21 +42,18 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<!--<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" height="16px"></a>&nbsp;-->
 	<!--<a href="https://cassandra.apache.org"><img src="https://skillicons.dev/icons?i=cassandra" height="32px"></a>&nbsp;-->
 	<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp;
-	<!--<a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" height="32px"></a>	-->
 		<br><a href="#"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
-<br><b>DevOps</b><br>
+<br><b>Workflow</b><br>
+	<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
+	<!--<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>&nbsp;-->
+	<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>&nbsp;
+<br><br><b>Miscellaneous</b><br>
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
-	<!--<a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;-->
-	<!--<a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;-->
-	<!--<a href="https://www.puppet.com"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;-->
 	<!--<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="32px"></a>-->
 	<!--<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="16px"></a>&nbsp;-->
-	<!--<a href="https://aws.amazon.com/fr/"><img src="https://skillicons.dev/icons?i=aws" height="32px"></a>-->
-<br><br><b>Miscellaneous</b><br>
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
 	<!--<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
-	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>&nbsp;
-	<!--<a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" height="32px"></a>&nbsp;-->
+	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>
 <br><div></p>
 
 
@@ -71,22 +65,22 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 
 <p align="center">
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
-	<span>ㅤ</span>
+	<span>&nbsp;&nbsp;</span>
 	<a href="https://github.com/SkohTV" target="_blank"><img src="https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://stackoverflow.com/users/your-stack-overflow-profile-link"><img src="https://img.shields.io/badge/Stack%20Overflow-FF6600.svg?logo=Stack%20Overflow&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://www.linkedin.com/in/noé-lorret-despret-650721279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
-	<span>ㅤ</span>
+	<a href="https://stackoverflow.com/users/21143650/skoh"><img src="https://img.shields.io/badge/Stack%20Overflow-FF6600.svg?logo=Stack%20Overflow&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://www.linkedin.com/in/noé-lorret-despret-650721279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
+	<span>&nbsp;&nbsp;</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" width="24px"></a>
 </p>
 
 <p align="center">
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/movie-camera_1f3a5.png" width="24px"></a>
-	<span>ㅤ</span>
+	<span>&nbsp;&nbsp;</span>
 	<a href="https://youtube.com/@Skoh"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://discord.gg/G8hrncZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://instagram.com/SkohTV"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://tiktok.com/@skohtv"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" style="vertical-align:center"/></a>
-	<span>ㅤ</span>
+	<span>&nbsp;&nbsp;</span>
 	<a href="#"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/movie-camera_1f3a5.png" width="24px"></a>
 </p>
 
