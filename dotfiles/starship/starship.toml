@@ -25,4 +25,4 @@ format = '[\$](cyan)'
 [env_var]
 variable = 'TMUX_ENV'
 default = '<>'
-format = '[$env_value](bold yellow) '
+format = '[$env_value](bold red) '
