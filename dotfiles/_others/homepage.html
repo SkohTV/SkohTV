@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48px' height='48px'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' stroke-width='3' d='M13.4,13.8l-3.6,2.9c-1.4,1.1-2.3,2.9-2.3,4.7v18.1c0,1.1,0.9,2,2,2h20'%3E%3C/path%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' stroke-width='3' d='M35,41.5h3.5c1.1,0,2-0.9,2-2V21.4c0-1.8-0.8-3.6-2.3-4.7L24.6,6c-0.4-0.3-0.9-0.3-1.2,0l-4.6,3.6'%3E%3C/path%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' stroke-width='3' d='M18.5,35.7v-8.2c0-0.6,0.4-1,1-1h8.9c0.6,0,1,0.4,1,1v14'%3E%3C/path%3E%3C/svg%3E">
+	<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"%3E%3Cpath fill="none" stroke="%23000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M13.4,13.8l-3.6,2.9c-1.4,1.1-2.3,2.9-2.3,4.7v18.1c0,1.1,0.9,2,2,2h20"%3E%3C/path%3E%3Cpath fill="none" stroke="%23000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M35,41.5h3.5c1.1,0,2-0.9,2-2V21.4c0-1.8-0.8-3.6-2.3-4.7L24.6,6c-0.4-0.3-0.9-0.3-1.2,0l-4.6,3.6"%3E%3C/path%3E%3Cpath fill="none" stroke="%23000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M18.5,35.7v-8.2c0-0.6,0.4-1,1-1h8.9c0.6,0,1,0.4,1,1v14"%3E%3C/path%3E%3C/svg%3E">
 	<title>Homepage</title>
 
 	<script>
@@ -12,20 +12,23 @@
 			var hrs = clock.getHours();
 			var mins = clock.getMinutes();
 			var amPm = ( hrs < 12) ? "AM" : "PM";
-	
 			hrs = (hrs > 12) ? hrs - 12 : hrs;
 			hrs = ("0" + hrs).slice(-2);
 			mins = ("0" + mins).slice(-2);
-	
-			document.getElementById('clock').innerHTML = hrs + ":" + mins + " " + amPm;
+			document.getElementById("clock").innerHTML = hrs + ":" + mins + " " + amPm;
 			var t = setTimeout(realtimeClock, 500);
 		}
 		function pickColor() {
 			const choice = ["rosewater", "flamingo", "pink", "mauve", "red", "maroon", "peach", "yellow", "green", "teal", "sky", "sapphire", "blue", "lavender"];
 			const index = Math.floor(Math.random() * choice.length);
 			const color = "var(--ctp-macchiato-" + choice[index] + ")";
-			document.documentElement.style.setProperty('--color-link', color);
-			document.documentElement.style.setProperty('--color-clock', color);
+			document.documentElement.style.setProperty("--color-link", color);
+			document.documentElement.style.setProperty("--color-clock", color);
+		}		
+		function pickBackground() {
+			const index = Math.floor(Math.random() * 66) + 1;
+			const image = `url(wallpapers/${index}.jpg)`;
+			const elem = document.body.style.backgroundImage = image;
 		}
 		pickColor();
 	</script>
@@ -140,19 +143,26 @@
 		:root {
 			--color-bg: var(--ctp-macchiato-crust);
 			--color-sentence: var(--ctp-macchiato-overlay2);
-			--font-clock: 'JetBrainsMono Nerd Font';
-			--font-text: 'JetBrainsMono Nerd Font';
+			--font-clock: "JetBrainsMono Nerd Font";
+			--font-text: "JetBrainsMono Nerd Font";
 		}
 		body {
+			background-color: var(--color-bg);
 			font-family: var(--font-text);
-			background: var(--color-bg);
+			background-size: cover;
+			background-position: center;
 			color: var(--color-fg);
 			height: 100vh;
 			margin: 0;
+		}
+		.overlay {
+			background-color: rgba(24, 25, 38, 0.5);
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
 			align-items: center;
+			height: 100%;
+			width: 100%;
 		}
 		.time {
 			font-family: var(--font-clock);
@@ -172,7 +182,7 @@
 		}
 		input {
 			width: 600px;
-			font-family: 'Montserrat', sans-serif;
+			font-family: "Montserrat", sans-serif;
 			font-size: 16px;
 			padding: 8px 20px 8px 8px;
 			background-color: var(--ctp-macchiato-subtext1);
@@ -213,7 +223,9 @@
 	</style>
 </head>
 
+
 <body>
+<div class="overlay">
 
 	<div class="time">
 		<div id="clock"></div>
@@ -258,7 +270,12 @@
 		</div>
 	</div>
 
-	<script>realtimeClock();</script>
+	<script>
+		pickBackground();
+		realtimeClock();
+	</script>
+
+</div>
 </body>
 
 

@@ -1,30 +1,28 @@
-format = '''
-┌──\[$username@$shell\] $directory$git_branch$hostname
-└─$character '''
+# Not good enough, to redo everything
 
 
-add_newline = true
+format = '''$username$env_var$directory$git_branch$hostname$character '''
 
-[username]
-format = '[$user](bold yellow)'
-show_always = true
+add_newline = false
 
-[shell]
-disabled = false
-format = '[$indicator](bold 2)'
 
 [directory]
 read_only = ' 󰌾'
-format = '[$path](bold blue)[$read_only](bold yellow)'
+format = '[$path](bold blue)[$read_only](bold yellow) '
 truncation_length = 0
 
 [git_branch]
-symbol = ' '
-format = '[$symbol](green)'
+symbol = ''
+format = '[$symbol](green) '
 
 [hostname]
 ssh_only = true
-format = ' on [$hostname](bold red)'
+format = '[$ssh_symbol](bold blue) on [$hostname](bold red) '
 
 [character]
 format = '[\$](cyan)'
+
+[env_var]
+variable = 'TMUX_ENV'
+default = '<>'
+format = '[$env_value](bold yellow) '
