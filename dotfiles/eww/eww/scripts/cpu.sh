@@ -1,3 +1,0 @@
-#!/bin/bash
-
-mpstat 1 1 | awk '/Average:/ {print 100 - $NF}'
