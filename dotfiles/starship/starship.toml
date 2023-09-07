@@ -1,7 +1,7 @@
 # Not good enough, to redo everything
 
 
-format = '''$username$env_var$directory$git_branch$hostname$character '''
+format = '''$username$hostname$directory$git_branch$character '''
 
 add_newline = false
 
@@ -15,14 +15,21 @@ truncation_length = 0
 symbol = ''
 format = '[$symbol](green) '
 
+[username]
+show_always = true
+format = '[$user](bold yellow) '
+
 [hostname]
 ssh_only = true
-format = '[$ssh_symbol](bold blue) on [$hostname](bold red) '
+format = 'on [$hostname](bold blue) '
 
 [character]
 format = '[\$](cyan)'
 
+
+
+# Unused
 [env_var]
 variable = 'TMUX_ENV'
-default = '<>'
-format = '[$env_value](bold red) '
+default = ''
+format = '[$env_value](bold red)'

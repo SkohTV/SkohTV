@@ -4,6 +4,11 @@ REPO="$HOME/dev/repo/SkohTV/dotfiles"
 
 
 copy_file() {
+
+  if [[ ! -z "$4" ]] ; then
+    rm -rf $2
+  fi
+
    cp $4 $1 $2
    echo "-> $3 successfully imported"
 }

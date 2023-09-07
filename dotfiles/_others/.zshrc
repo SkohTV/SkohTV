@@ -20,11 +20,12 @@ bindkey '^[[B' history-substring-search-down
 # x -> y
 alias ll="exa -bghHlSF --colour=always --group-directories-first --icons"
 alias lla="exa -abghHlSF --colour=always --group-directories-first --icons"
-alias tr="exa -bghHlSF --tree --level=3 --colour=always --group-directories-first --icons"
-alias tra="exa -abghHlSF --tree --level=3 --colour=always --group-directories-first --icons"
+alias tr="exa -bghHlSF --tree --colour=always --group-directories-first --icons"
+alias tra="exa -abghHlSF --tree --colour=always --group-directories-first --icons"
 alias cat="bat"
 alias __cat="bat --plain --color never --paging=never"
 alias grep="rg --color=always"
+alias __grep="/bin/grep"
 
 # General QoL
 alias c="clear"
