@@ -1,11 +1,11 @@
-# Full Arch Setup
-
+# Full Arch Setup (OUT OF DATE)
+*Will switch to NixOS in the futur, the list will be easier to maintain ^^*
 
 
 
 <br>
 
-## Setup
+## To Add
 
 xorg<br>
 xorg-xinit<br>
@@ -24,21 +24,21 @@ xclip<br>
 ## Wallpapers
 *Credits to creators*
 
-<u>**PC**</u><br>
-\- 99% of all of them ➜ https://twitter.com/QUASARCAKE<br>
+<u>**Desktop**</u><br>
+\- Almost all of them ➜ https://twitter.com/QUASARCAKE<br>
 \- `61.jpg` ➜ https://twitter.com/qleleldhcks/status/1684151873698402304<br>
 
 
 <u>**Phone**</u><br>
 \- `M16A1_low.jpg` ➜ https://www.pinterest.fr/pin/742601426053169083<br>
-\- `Calli.jpg` ➜ https://www.pinterest.fr/pin/742601426053169083<br>
+\- `Calli.jpg` ➜ https://twitter.com/IKKI___A/status/1648244229523779584<br>
 
 
 
 <br>
 
 
-## To Add
+## Setup
 
 🔸 <u>**Arch Linux**</u><br>
 **->** [bspwm](https://github.com/baskerville/bspwm)<br>
@@ -139,12 +139,12 @@ xclip<br>
 
 <br>
 DE/WM :<br>
-1 - Cool Eww<br>
+1 - Btop<br>
 2 - ???<br>
 3 - ???<br>
 4 - Obsidian<br>
 5 - VSCode<br>
-6 - zsh<br>
+6 - Alacritty<br>
 7 - Web<br>
 8 - ???<br>
 9 - ???<br>
@@ -155,7 +155,7 @@ DE/WM :<br>
 
 
 Eww bar<br>
-\- (BlackArch + [ Process=% / RAM=\ / Temp=°C ] + [ Cava ])<br>
+\- (NixOS + [ Process=% / RAM=\ / Temp=°C ] + [ Cava ])<br>
 \- (workspaces)<br>
 \- (Batterie=% / [ Light + Sound ] / [ Wifi=upVal+dwVal ] / [ Bluetooth ] / [ Time ])<br>
 
@@ -166,24 +166,9 @@ Eww bar<br>
 Tmux sessions<br>
 \- VScode<br>
 \- ZSH (split vertical)<br>
+\- Btop<br>
 
 
-
-
-
-
-
-
-<br>
-
-
-```sh
-┌──(qlpth@arch) ~/Documents/Github
-└─$ echo "Hello World"
-
-┌──[qlpth@arch] ~/Documents/Github
-└─$ echo "Hello World"
-```
 
 
 <br>
@@ -198,3 +183,13 @@ https://www.reddit.com/r/unixporn/comments/13vh4ed/hyprland_things_that_make_you
 
 Other<br>
 https://cht.sh
+
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<div align=center>
+	<h3>Ņ̴̴̭̙̞̼̟̗͓̪̤̘͗ͥ͆̌̐ͬ͆́̐͛͘͝͡͝ix̡̛̙͇̲̣͓̘̥̗͓̋̑̾͘ i̸̴̷̶̢̢̛̛̗͍̙͇̞͔̼̲̝͍̯̳̮ͪ̐͂̄̓̑́̿͗ͯ̔̒͑̾ͪ̉̀̑̍̀ͤ͜͞s̱̅͞ ń̶͇͍̭̦̆̃̆͘͡ȇ̶̯̻̱̥̦̼̭̠̭͚ͯ̌̾ͬ̾ͤ̊ͣ̋ͬͬ̈́͛̕͝ͅ_̢͙͎̞̟̻̲͔̅̃̇͊x͔̬̗̘̮͛̾͋͟͡͠͠_̵̴̸̫̟͎͚͙̯̓̑̐̋̓͌ͥ͌̅̾t̷̷̵̢̨͍̩͕̫͇͙̗̳͇̯͙̰͖̯͎̘̠ͬ̀̀ͮ̎͆͌ͣͬ͛͊͑͑ͧͩ͊̃ͩ̎̽̕̕͟͡</h3><br><br><br>
+	<a href="https://nixos.org">
+		<img align=center style="border-radius:5px" width=400 src=https://i.ibb.co/1mgYmjm/sida52tgy9kb1.png>
+	</a>
+</div>

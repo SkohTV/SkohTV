@@ -10,7 +10,7 @@
 	- [Languages](#languages)
 	- [Web Developpement](#web-developpement)
 	- [Databases](#databases)
-	- [DevOps](#devops)
+	- [Workflow](#workflow)
 	- [Miscellaneous](#miscellaneous)
 - [👨‍💻 Projects](#-projects)
 	- [Year 2023](#year-2023)
@@ -66,21 +66,17 @@ Blablabla
 
 ### Languages
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
-<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
 <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
 <a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
 <a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a>&nbsp;
-<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" height="32px"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a>
 
 ### Web Developpement
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
 <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" height="32px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;
-<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="32px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="16px"></a>&nbsp;
 <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp;
 <a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" height="32px"></a>
 
@@ -90,26 +86,22 @@ Blablabla
 <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" height="16px"></a>&nbsp;
 <a href="https://cassandra.apache.org"><img src="https://skillicons.dev/icons?i=cassandra" height="32px"></a>&nbsp;
 <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp;
-<a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" height="32px"></a>	
 
-### DevOps
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
-<a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
-<a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
-<a href="https://www.puppet.com"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
-<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="32px"></a>
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="16px"></a>&nbsp;
-<a href="https://aws.amazon.com/fr/"><img src="https://skillicons.dev/icons?i=aws" height="32px"></a>
+### Workflow
+<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
+<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>&nbsp;
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>&nbsp;
 
 ### Miscellaneous
+<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="32px"></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="16px"></a>&nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;
-<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>&nbsp;
-<a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" height="32px"></a>&nbsp;
+<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>
 
 
 
-<!--<br>-->
+<br>
 
 
 
@@ -169,4 +161,5 @@ Blablabla
 
 ## ☎️ Contact
 
-Blablabla
+Mail : `qlpth@proton.me`<br>
+Discord : `@skoh`
