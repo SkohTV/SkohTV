@@ -109,6 +109,16 @@ Blablabla
 
 ### Year 2023
 
+**[Wyvern](https://github.com/SkohTV/Wyvern)** -
+<a href="#year-2023"><img src="https://skillicons.dev/icons?i=cpp,cmake" height="12px"></a><br>
+???
+<br>
+
+**[Crepes](https://github.com/SkohTV/Crepes)** -
+<a href="#year-2023"><img src="https://skillicons.dev/icons?i=rust" height="12px"></a><br>
+???
+<br>
+
 **[Keyboard Master](https://github.com/SkohTV/Keyboard-master)** -
 <a href="#year-2023"><img src="https://skillicons.dev/icons?i=py,js,mongo" height="12px"></a><br>
 Type Racer game made with Python (Advanced Tkinter) and a Javascript backend (Vercel Serverless Functions)
@@ -161,5 +171,4 @@ Blablabla
 
 ## ☎️ Contact
 
-Mail : `qlpth@proton.me`<br>
-Discord : `@skoh`
+Blablabla
