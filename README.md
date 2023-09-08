@@ -89,7 +89,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 </p>
 
 <div align=center>
-	<a href="https://knowyourmeme.com/memes/improvise-adapt-overcome">
+	<a href="#">
 		<img align=center style="border-radius:5px" width=240 src=https://i.ibb.co/hmy2nfd/overcome-1.png>
 	</a>
 </div>

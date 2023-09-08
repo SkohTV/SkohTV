@@ -1,5 +1,5 @@
-# Full Arch Setup (OUT OF DATE)
-*Will switch to NixOS in the futur, the list will be easier to maintain ^^*
+# Full Arch Setup (OUT OF DATE) (dotfiles are up to date)
+*Will switch to NixOS in the future, the list will be easier to maintain ^^*
 
 
 
