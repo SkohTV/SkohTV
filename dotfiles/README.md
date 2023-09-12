@@ -114,21 +114,18 @@ xclip<br>
 🔹 <u>**Langs**</u><br>
 **->** <!-- Python / Cython / Mojo -->
 [python3](https://github.com/python/cpython)
-/ [pip](https://github.com/pypa/pip)
-/ [pylint](https://github.com/pylint-dev/pylint)
-/ [cython](https://github.com/cython/cython)<br>
+/ [cython](https://github.com/cython/cython)
+/ [mojo](https://github.com/modularml/mojo)<br>
 **->** <!-- Carbon / C / C++ -->
 [gcc](https://github.com/gcc-mirror/gcc)
 / [g++](https://github.com/gcc-mirror/gcc)<br>
 **->** <br> <!-- Rust -->
+**->** <!-- Javascript / Typescript -->
+[bun](https://github.com/oven-sh/bun)
+/ [tailwind](https://github.com/tailwindlabs/tailwindcss)<br>
+**->** <br> <!-- PhP -->
 **->** <br> <!-- Java -->
 **->** <br> <!-- C# -->
-**->** <!-- Javascript / Typescript -->
-[node](https://github.com/nodejs/node)
-/ [npm](https://github.com/npm/cli)
-/ [pnpm](https://github.com/pnpm/pnpm)
-/ [typescript](https://github.com/microsoft/TypeScript)<br>
-**->** <br> <!-- PhP -->
 **->** <br> <!-- Golang -->
 **->** <br> <!-- Assembly -->
 **->** <br> <!-- JVM / Erlang / LLVM / V8 -->
