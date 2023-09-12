@@ -41,7 +41,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;
 	<!--<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp;-->
-	<!--<a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" height="32px"></a>-->
+	<!--<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;-->
 <br><br><b>Databases</b><br>
 	<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
 	<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="32px"></a>
