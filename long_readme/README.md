@@ -70,6 +70,7 @@ Blablabla
 <a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
 <a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;
+<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a>
 
 ### Web Developpement
