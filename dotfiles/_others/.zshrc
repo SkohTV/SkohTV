@@ -35,6 +35,7 @@ alias free="free -m"
 alias wget="wget -c"
 alias ping="ping -c 5"
 alias mkdir="mkdir -pv"
+alias code="sh ~/bin/vscode_tmux.sh"
 
 # Safety
 alias rm="rm -i"

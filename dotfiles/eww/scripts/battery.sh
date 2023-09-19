@@ -1,7 +1,7 @@
 #!/bin/bash
 
 file=$(upower -e | grep 'BAT' | tr -d '\n')
-data=$(upower -i $file | grep -E "state|percentage" | tr -d "%")
+data=$(upower -i "$file" | grep -E "state|percentage" | tr -d "%")
 
 state=$(echo $data | grep -oP 'state: \K\w+')
 percentage=$(echo $data | grep -oP 'percentage: \K\d+')
@@ -37,5 +37,5 @@ else
   fi
 fi
 
-ret=$(printf "{\"state\":\"%s\",\"value\":%s}" $state_return $percentage)
-echo $ret
+ret=$(printf "{\"state\":\"%s\",\"value\":%s}" "$state_return" "$percentage")
+echo "$ret"

@@ -18,5 +18,5 @@ else
   mute_return="󰝟";
 fi
 
-ret=$(printf "{\"state\":\"%s\",\"value\":%s}" $mute_return $volume)
-echo $ret
+ret=$(printf "{\"state\":\"%s\",\"value\":%s}" "$mute_return" "$volume")
+echo "$ret"

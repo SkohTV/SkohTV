@@ -1,6 +1,5 @@
 ;; TODO
 ;; - change wifi icon depending on state (connection good/med/bad/nothing)
-;; - add slider to change volume & brightness (and add custom icon for no brightness)
 
 
 ;; Define window basis
@@ -8,9 +7,10 @@
 (defwindow bar
   :windowtype "normal"
   :wm-ignore true
+  :anchor "top"
   :geometry (geometry
     :width "100%"
-    :height "2.5%")
+    :height "3%")
   (bar_layout))
 
 
@@ -40,7 +40,7 @@
   (label :class "cava" :text "${cava}"))
 
 (defwidget _light []
-  (label :class "light" :text "󰖨  100"))
+  (label :class "light" :text "󰖨  ${brightness.hundred}"))
 
 (defwidget _sound []
   (label :class "sound" :text "${volume.state}  ${volume.value}"))
@@ -107,8 +107,12 @@
         (_battery)
       )
       (box :class "grp2"
-        (_light)
-        (_sound)
+         (eventbox :onclick "scripts/pop.sh brightsound"
+          (box 
+            (_light)
+            (_sound)
+          )
+        )
       )
       (box :class "grp3"
         (_wifi)
@@ -153,8 +157,74 @@
   `scripts/wifi.sh &`)
 
 (defpoll volume
-  :interval "0.4s"
+  :interval "0.1s"
   `scripts/volume.sh &`)
+
+(defpoll brightness
+  :interval "0.1s"
+  `scripts/brightness.sh`)
 
 (deflisten cava
   `scripts/cava.sh`)
+
+
+;; Brightness
+;; xrandr --output eDP-1 --brightness 1
+;;
+;; Volume
+;; pactl set-sink-volume 0 0%
+;; pactl set-sink-mute 0 true
+
+
+
+
+
+;; -------------------------------------------------------------------------;;
+;;                          BRIGHTNESS & SOUND                              ;;
+;; -------------------------------------------------------------------------;;
+
+
+
+;; Define window basis
+
+(defwindow bar_brightsound
+  :windowtype "normal"
+  :wm-ignore true
+  :geometry (geometry
+    :anchor "top center"
+    :y "4%"
+    :width "5%"
+    :height "15%")
+  (brightsound_layout))
+
+
+
+;; Glue together
+
+(defwidget brightsound_layout []
+  (box :space-evenly false
+      (_set_bright)
+      (_set_sound)
+  )
+)
+
+
+(defwidget _set_bright []
+  (box :class "_set_bright"
+    (scale
+      :value "${brightness.twenty}"
+      :onchange "scripts/set_bright.sh {} &"
+      :orientation "v"
+      :flipped true
+      :min 6
+      :max 40)))
+
+(defwidget _set_sound []
+  (box :class "_set_sound"
+    (scale
+      :value "${volume.value}"
+      :onchange "scripts/set_sound.sh {} &"
+      :orientation "v"
+      :flipped true
+      :min 0
+      :max 101)))

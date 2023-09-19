@@ -4,7 +4,7 @@
 ## Files and cmd
 
 ## Run eww daemon if not running already
-if [[ ! `pidof eww` ]]; then
+if [[ ! $(pidof eww) ]]; then
 	eww daemon
 	sleep 1
 fi
