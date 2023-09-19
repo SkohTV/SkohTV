@@ -8,11 +8,11 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 ## 👨‍💻 Projects
 
 
-<!--### <a href="#"><img src="https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/f/f2/Mod_Ark_Eternal_Prime_Wyvern.png/revision/latest?cb=20190725181456" width="24px"/></a>&nbsp;[Wyvern](https://github.com/SkohTV/Wyvern)&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="16px"></a>-->
-<!--???-->
+### <a href="#"><img src="https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/f/f2/Mod_Ark_Eternal_Prime_Wyvern.png/revision/latest?cb=20190725181456" width="24px"/></a>&nbsp;[Wyvern](https://github.com/SkohTV/Wyvern)&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="16px"></a>
+???
 
-<!--### <a href="#"><img src="https://em-content.zobj.net/source/google/350/pancakes_1f95e.png" width="24px"/></a>&nbsp;[Crepes](https://github.com/SkohTV/Crepes)&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=rust" height="16px"></a>-->
-<!--???-->
+### <a href="#"><img src="https://em-content.zobj.net/source/google/350/pancakes_1f95e.png" width="24px"/></a>&nbsp;[Crepes](https://github.com/SkohTV/Crepes)&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=rust" height="16px"></a>
+???
 
 ### <a href="#"><img src="https://cdn.discordapp.com/avatars/1033842126334742659/5235b0f44210455555f1685cac3580b9.png?size=1024" width="24px"/></a>&nbsp;[Quantum](https://github.com/SkohTV/Quantum-bot)&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>
 Small all-in-one Discord bot written in Python, only running in my Discord server
