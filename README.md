@@ -33,7 +33,6 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;
 	<!--<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
 	<!--<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;-->
-	<!--<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp;-->
 	<!--<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a>-->
 <br><br><b>Web Developpement</b><br>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
@@ -51,12 +50,14 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 		<br><a href="#"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
 <br><b>Workflow</b><br>
 	<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
-	<!--<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>&nbsp;-->
+	<a href=""><img src="https://avatars.githubusercontent.com/u/39327063?s=200&v=4" height="32px" style="border-radius:6px"></a>&nbsp;
+	<a href=""><img src="https://skillicons.dev/icons?i=vim" height="32px"></a>&nbsp;
+	<a href=""><img src="https://play-lh.googleusercontent.com/0WzNnQJyEuOyvkZvYVpGkQJEvOfEF9kBnbLnLQioqUAX_DlV6wP8hyH8BgVBHQa1V9A" height="32px" style="border-radius:6px"></a>&nbsp;
 	<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>&nbsp;
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
-	<!--<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
+	<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;
 	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>
 <br><div></p>
 
