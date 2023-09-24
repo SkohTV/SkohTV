@@ -23,7 +23,7 @@
 
 
 
-<br>
+---
 
 
 
@@ -33,7 +33,7 @@ Blablabla
 
 
 
-<br>
+---
 
 
 
@@ -51,7 +51,7 @@ Blablabla
 
 
 
-<br>
+---
 
 
 
@@ -72,7 +72,7 @@ Blablabla
 
 
 
-<br>
+---
 
 
 
@@ -117,7 +117,7 @@ Blablabla
 
 
 
-<br>
+---
 
 
 
@@ -171,7 +171,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 
 
 
-<br>
+---
 
 
 
@@ -181,7 +181,7 @@ Blablabla
 
 
 
-<br>
+---
 
 
 
