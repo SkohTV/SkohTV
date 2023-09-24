@@ -177,7 +177,8 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 
 ## 🏆 Achievements
 
-Blablabla
+**2023** - TOEIC® Listening and Reading test<br>
+**➤** 955/900 (CEFR level : C1)<br>
 
 
 
