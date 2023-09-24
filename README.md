@@ -50,9 +50,9 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 		<br><a href="#"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
 <br><b>Workflow</b><br>
 	<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
-	<a href=""><img src="https://avatars.githubusercontent.com/u/39327063?s=200&v=4" height="32px" style="border-radius:6px"></a>&nbsp;
+	<a href=""><img src="https://i.ibb.co/3kJzJPg/nix.png" height="32px"></a>&nbsp;
 	<a href=""><img src="https://skillicons.dev/icons?i=vim" height="32px"></a>&nbsp;
-	<a href=""><img src="https://play-lh.googleusercontent.com/0WzNnQJyEuOyvkZvYVpGkQJEvOfEF9kBnbLnLQioqUAX_DlV6wP8hyH8BgVBHQa1V9A" height="32px" style="border-radius:6px"></a>&nbsp;
+	<a href=""><img src="https://i.ibb.co/0rx1M7Z/obsidian.png" height="32px"></a>&nbsp;
 	<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>&nbsp;
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
