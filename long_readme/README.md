@@ -1,4 +1,4 @@
-## 📌 Summary
+##  📌 Summary
 
 - [📌 Summary](#-summary)
 - [✨ About Me](#-about-me)
@@ -6,6 +6,9 @@
 	- [High School](#high-school)
 	- [ISEN School of Engineering](#isen-school-of-engineering)
 - [🔮 Interests](#-interests)
+	- [Computer Science](#computer-science)
+	- [Gaming \& content creation](#gaming--content-creation)
+	- [Sport ?](#sport-)
 - [🛠 Skills](#-skills)
 	- [Languages](#languages)
 	- [Web Developpement](#web-developpement)
@@ -54,6 +57,17 @@ Blablabla
 
 ## 🔮 Interests
 
+### Computer Science
+Blablabla
+
+<br>
+
+### Gaming & content creation
+Blablabla
+
+<br>
+
+### Sport ?
 Blablabla
 
 
@@ -65,12 +79,12 @@ Blablabla
 ## 🛠 Skills
 
 ### Languages
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
-<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
+<a href="https://docs.modular.com/mojo/programming-manual.html"><img src="https://avatars.githubusercontent.com/u/39327063?s=200&v=4" height="32px" style="border-radius:6px"></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
 <a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
-<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;
+<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp;
-<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a>
 
 ### Web Developpement
@@ -79,7 +93,7 @@ Blablabla
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;
 <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp;
-<a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" height="32px"></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a>&nbsp;
 
 ### Databases
 <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
@@ -89,13 +103,14 @@ Blablabla
 <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp;
 
 ### Workflow
-<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
-<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>&nbsp;
+<a href="https://nixos.org"><img src="https://i.ibb.co/3kJzJPg/nix.png" height="32px"></a>
+<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="16px"></a>&nbsp;
+<a href="https://github.com/vim"><img src="https://skillicons.dev/icons?i=vim" height="32px"></a>&nbsp;
+<a href="https://obsidian.md"><img src="https://i.ibb.co/0rx1M7Z/obsidian.png" height="32px"></a>&nbsp;
 <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>&nbsp;
 
 ### Miscellaneous
-<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="32px"></a>
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="16px"></a>&nbsp;
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;
 <a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>
@@ -172,4 +187,6 @@ Blablabla
 
 ## ☎️ Contact
 
-Blablabla
+Professional email : `contact@skoh.dev`<br>
+Content creation email : `contact@skoh.tv`<br>
+Discord : `@skoh`

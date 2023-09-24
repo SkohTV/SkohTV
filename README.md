@@ -53,7 +53,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 	<!--<a href="https://nixos.org"><img src="https://i.ibb.co/3kJzJPg/nix.png" height="32px"></a>-->
 	<!--<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="16px"></a>&nbsp;-->
 	<!--<a href="https://github.com/vim"><img src="https://skillicons.dev/icons?i=vim" height="32px"></a>&nbsp;-->
-	<a href=""><img src="https://i.ibb.co/0rx1M7Z/obsidian.png" height="32px"></a>&nbsp;
+	<a href="https://obsidian.md"><img src="https://i.ibb.co/0rx1M7Z/obsidian.png" height="32px"></a>&nbsp;
 	<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>&nbsp;
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
