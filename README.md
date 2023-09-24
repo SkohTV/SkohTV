@@ -50,14 +50,15 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 		<br><a href="#"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
 <br><b>Workflow</b><br>
 	<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
-	<a href=""><img src="https://i.ibb.co/3kJzJPg/nix.png" height="32px"></a>&nbsp;
-	<a href=""><img src="https://skillicons.dev/icons?i=vim" height="32px"></a>&nbsp;
+	<!--<a href="https://nixos.org"><img src="https://i.ibb.co/3kJzJPg/nix.png" height="32px"></a>-->
+	<!--<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="16px"></a>&nbsp;-->
+	<!--<a href="https://github.com/vim"><img src="https://skillicons.dev/icons?i=vim" height="32px"></a>&nbsp;-->
 	<a href=""><img src="https://i.ibb.co/0rx1M7Z/obsidian.png" height="32px"></a>&nbsp;
 	<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>&nbsp;
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
-	<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;
+	<!--<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;-->
 	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>
 <br><div></p>
 
