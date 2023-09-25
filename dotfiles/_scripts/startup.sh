@@ -4,6 +4,11 @@
 # Wait for bspwm to start
 sleep 2
 
+# Enable custom cursor
+lxappearance &
+sleep 0.5
+bspc node -c
+
 # Eww powermenu
 bspc desktop -f ^1
 alacritty & disown

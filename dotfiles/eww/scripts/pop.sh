@@ -7,21 +7,15 @@
 # If file exist, then delete it (and close popup)
 
 
-brightsound(){
-  LOCK_FILE="$HOME/.cache/eww-bar-brightsound.lock"
-  EWW_BIN="eww"
 
-  if [[ ! -f "$LOCK_FILE" ]]; then
-    #$EWW_BIN close bar-wifi bar-calendar
-    touch "$LOCK_FILE"
-    $EWW_BIN open bar_brightsound
-  else
-    $EWW_BIN close bar_brightsound
-    rm "$LOCK_FILE"
-  fi
-}
+LOCK_FILE="$HOME/.cache/eww-bar-brightsound.lock"
+EWW_BIN="eww"
 
-
-if [ "$1" = "brightsound" ]; then
-  brightsound
+if [[ ! -f "$LOCK_FILE" ]]; then
+  #$EWW_BIN close bar-wifi bar-calendar
+  touch "$LOCK_FILE"
+  $EWW_BIN open bar_brightsound
+else
+  $EWW_BIN close bar_brightsound
+  rm "$LOCK_FILE"
 fi

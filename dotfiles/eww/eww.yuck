@@ -1,7 +1,3 @@
-;; TODO
-;; - change wifi icon depending on state (connection good/med/bad/nothing)
-
-
 ;; Define window basis
 
 (defwindow bar
@@ -18,8 +14,7 @@
 ;; Create widgets
 
 (defwidget _distro []
-  (label :class "distro" :text "󰣇"))
-;;  (label :class "distro" :text "󱄅"))
+  (eventbox :onclick "scripts/pop.sh" (label :class "distro" :text "󰣇"))) ;; 󱄅
 
 (defwidget _time []
   (label :class "time" :text {time}))
@@ -32,7 +27,7 @@
 
 (defwidget _ram []
   (label :class "ram" :text "   ${ram}GiB"))
- 
+
 (defwidget _temp []
   (label :class "temp" :text "  ${temp}°C"))
 
@@ -46,30 +41,30 @@
   (label :class "sound" :text "${volume.state}  ${volume.value}"))
 
 (defwidget _wifi []
-  (label :class "wifi" :text "󰖩  ${wifi}"))
+  (label :class "wifi" :text "${wifi.state}  ${wifi.value}"))
 
 (defwidget _workspaces []
   (box :class "workspaces"
     (box :class "w1" 
-      (label  :text {workspace==1 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 1" (label  :text {workspace==1 ? " 󰪥 " : "  "})))
     (box :class "w2" 
-      (label  :text {workspace==2 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 2" (label  :text {workspace==2 ? " 󰪥 " : "  "})))
     (box :class "w3" 
-      (label  :text {workspace==3 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 3" (label  :text {workspace==3 ? " 󰪥 " : "  "})))
     (box :class "w4" 
-      (label  :text {workspace==4 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 4" (label  :text {workspace==4 ? " 󰪥 " : "  "})))
     (box :class "w5" 
-      (label  :text {workspace==5 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 5" (label  :text {workspace==5 ? " 󰪥 " : "  "})))
     (box :class "w6" 
-      (label  :text {workspace==6 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 6" (label  :text {workspace==6 ? " 󰪥 " : "  "})))
     (box :class "w7" 
-      (label  :text {workspace==7 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 7" (label  :text {workspace==7 ? " 󰪥 " : "  "})))
     (box :class "w8" 
-      (label  :text {workspace==8 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 8" (label  :text {workspace==8 ? " 󰪥 " : "  "})))
     (box :class "w9" 
-      (label  :text {workspace==9 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 9" (label  :text {workspace==9 ? " 󰪥 " : "  "})))
     (box :class "w0" 
-      (label  :text {workspace==0 ? " 󰪥 " : "  "}))
+      (eventbox :onclick "bspc desktop -f 0" (label  :text {workspace==0 ? " 󰪥 " : "  "})))
     )
   )
 
@@ -107,11 +102,9 @@
         (_battery)
       )
       (box :class "grp2"
-         (eventbox :onclick "scripts/pop.sh brightsound"
-          (box 
-            (_light)
-            (_sound)
-          )
+        (box 
+          (_light)
+          (_sound)
         )
       )
       (box :class "grp3"
@@ -157,7 +150,7 @@
   `scripts/wifi.sh &`)
 
 (defpoll volume
-  :interval "0.1s"
+  :interval "0.01s"
   `scripts/volume.sh &`)
 
 (defpoll brightness
@@ -166,14 +159,6 @@
 
 (deflisten cava
   `scripts/cava.sh`)
-
-
-;; Brightness
-;; xrandr --output eDP-1 --brightness 1
-;;
-;; Volume
-;; pactl set-sink-volume 0 0%
-;; pactl set-sink-mute 0 true
 
 
 
@@ -191,8 +176,9 @@
   :windowtype "normal"
   :wm-ignore true
   :geometry (geometry
-    :anchor "top center"
+    :anchor "top right"
     :y "4%"
+    :x "-2%"
     :width "5%"
     :height "15%")
   (brightsound_layout))
@@ -203,28 +189,86 @@
 
 (defwidget brightsound_layout []
   (box :space-evenly false
+    (box :class "bright_sound"
       (_set_bright)
       (_set_sound)
+    )
+      (box :orientation "v" :space-evenly false :class "cal_wifi"
+        (_calendar)
+        (_wifi_details))
   )
 )
 
 
-(defwidget _set_bright []
-  (box :class "_set_bright"
+(defwidget _set_bright [] 
+  (box :class "_set_bright" :orientation "v" :space-evenly false
     (scale
       :value "${brightness.twenty}"
       :onchange "scripts/set_bright.sh {} &"
       :orientation "v"
       :flipped true
       :min 6
-      :max 40)))
+      :max 40)
+      (button
+        :class "bright"
+        :onclick "scripts/button_bright.sh"
+        (label :yalign 0.5 :xalign 0.4 :text ""))))
 
 (defwidget _set_sound []
-  (box :class "_set_sound"
+  (box :class { volume.state_raw=="no" ? "_set_sound_active" : "_set_sound_inactive" } :orientation "v" :space-evenly false
     (scale
       :value "${volume.value}"
       :onchange "scripts/set_sound.sh {} &"
       :orientation "v"
       :flipped true
+      :active { volume.state_raw=="no" ? true : false }
       :min 0
-      :max 101)))
+      :max 101)
+      (button
+        :class { volume.state_raw=="no" ? "sound_on" : "sound_off" }
+        :onclick "scripts/button_sound.sh"
+        (label :yalign 0.5 :xalign 0.4 :text "󰝟"))))
+
+(defwidget _calendar []
+  (calendar
+    :day {_day}
+    :month {_month}
+    :year {_year}))
+
+(defwidget _wifi_details []
+  (box :orientation "v" :class "_wifi_details"
+    (label :justify "right" :xalign 1 :text "
+${_wifi_details.bars}    ${_wifi_details.ssid}
+${_wifi_details.bssid}
+${_wifi_details.rate}
+  0   |   0 
+")))
+
+
+
+
+(defpoll _wifi_details
+  :interval "0.2s"
+  `scripts/wifi_details.sh`)
+
+(defpoll _day
+  :interval "5m"
+  `date +'%d'`)
+
+(defpoll _month
+  :interval "5m"
+  `date +'%m'`)
+
+(defpoll _year
+  :interval "5m"
+  `date +'%Y`)
+
+
+
+
+
+
+;; -------------------------------------------------------------------------;;
+;;                             NOTIFICATIONS                                ;;
+;; -------------------------------------------------------------------------;;
+

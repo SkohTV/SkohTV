@@ -79,19 +79,29 @@ window.bar {
 
 
 
-
-
-
 window.bar_brightsound {
   background: #333333;
   border-radius: 10px;
   margin: 5px;
+  font-size: 14px;
+  .bright_sound { margin: 0 25px 0 5px }
+  .cal_wifi { margin: 0 7px 0 0 }
+  ._wifi_details { margin: 5px ; color: #c6a0f6 }
+  button {
+    font-size: 24px;
+    border-radius: 24px;
+    min-height: 36px;
+    margin: 6px;
+    &.sound_on { background-color: #444444; color: #91d7e3 }
+    &.sound_off { background-color: #222222; color: #91d7e3 }
+    &.bright { background-color: #444444; color: #eed49f }
+  }
 }
 
 scale trough {
   background: #22242b;
   border-radius: 16px;
-  min-height: 110px;
+  min-height: 180px;
   min-width: 8px;
   margin: 10px 20px 10px 20px;
 }
@@ -102,15 +112,28 @@ scale trough highlight {
 }
 
 ._set_bright scale trough highlight {background-color: #eed49f}
-._set_sound scale trough highlight {background-color: #91d7e3}
+._set_sound_active scale trough highlight {background-color: #91d7e3}
+._set_sound_inactive scale trough highlight {background-color: #acacac}
 
 
 
 
 
 
-
-
+calendar {
+  color: #89a2cf;
+  &:selected {color: #ffc03a}
+  &.button {color: #6ece1a}
+  &:indeterminate {color: #3e71d1}
+  &.header {
+    color: #a1bdce;
+    font-weight: bold;
+  }
+  &.highlight {
+    color: #a5d994;
+    font-weight: bold;
+  }
+}
 
 
 

@@ -3,12 +3,12 @@
 #
 
 # terminal emulator
-super + @space
-	alacritty
+#super + @space
+#	rofi -show drun -show-icons
 
 # program launcher
 super + Return
-	rofi -show drun -show-icons
+	alacritty
 
 # make sxhkd reload its configuration files:
 super + Escape
