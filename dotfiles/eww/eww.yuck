@@ -14,7 +14,13 @@
 ;; Create widgets
 
 (defwidget _distro []
-  (eventbox :onclick "scripts/pop.sh" (label :class "distro" :text "󰣇"))) ;; 󱄅
+  (eventbox
+  :onclick { distro_click==true ?
+    "scripts/pop.sh && eww update distro_click=false" :
+    "scripts/pop.sh && eww update distro_click=true"
+  }
+  :class {_notif=="" ? distro_click==true ? "distro_on" : "distro_off" : "distro_noti"}
+    (label :xalign 0.4 :yalign 0.5 :class "distro" :text "󱄅"))) ;; 󱄅
 
 (defwidget _time []
   (label :class "time" :text {time}))
@@ -121,6 +127,8 @@
 
 ;; Get values
 
+(defvar distro_click false)
+
 (defpoll time
   :interval "1s"
   `scripts/time.sh &`)
@@ -150,11 +158,11 @@
   `scripts/wifi.sh &`)
 
 (defpoll volume
-  :interval "0.01s"
+  :interval "0.2s"
   `scripts/volume.sh &`)
 
 (defpoll brightness
-  :interval "0.1s"
+  :interval "0.2s"
   `scripts/brightness.sh`)
 
 (deflisten cava
@@ -227,7 +235,7 @@
       (button
         :class { volume.state_raw=="no" ? "sound_on" : "sound_off" }
         :onclick "scripts/button_sound.sh"
-        (label :yalign 0.5 :xalign 0.4 :text "󰝟"))))
+        (label :yalign 0.5 :xalign 0.4 :text {volume.state_raw=="no" ? "󰕾" : "󰝟"}))))
 
 (defwidget _calendar []
   (calendar
@@ -249,19 +257,19 @@ ${_wifi_details.rate}
 
 (defpoll _wifi_details
   :interval "0.2s"
-  `scripts/wifi_details.sh`)
+  `scripts/wifi_details.sh &`)
 
 (defpoll _day
   :interval "5m"
-  `date +'%d'`)
+  `date +'%d' &`)
 
 (defpoll _month
   :interval "5m"
-  `date +'%m'`)
+  `date +'%m' &`)
 
 (defpoll _year
   :interval "5m"
-  `date +'%Y`)
+  `date +'%Y &`)
 
 
 
@@ -272,3 +280,55 @@ ${_wifi_details.rate}
 ;;                             NOTIFICATIONS                                ;;
 ;; -------------------------------------------------------------------------;;
 
+
+
+(defwindow bar_left
+  :windowtype "normal"
+  :wm-ignore true
+  :geometry (geometry
+    :anchor "top left"
+    :y "4%"
+    :x "0.5%"
+    :width "5%"
+    :height "15%")
+  (bar_left_layout))
+
+(defwidget bar_left_layout []
+  (box :orientation "v" :space-evenly false
+    (_toolbox)
+    (_notif_box))
+)
+
+(defwidget _toolbox []
+  (box :class "toolbox"
+    (button
+      (label :text "a"))
+    (button
+      (label :text "b"))
+    (button
+      (label :text "c"))
+    (button
+      (label :text "d"))
+  )
+)
+
+(defwidget _notif_box []
+  (box :orientation "v" :space-evenly false :width 200 :class "notif_box"
+    (box :space-evenly true
+      (box)
+      (button :class "reset_notif" :onclick "scripts/notifications.sh clear"
+        (label :xalign 0.45 :yalign 0.5 :text ""))
+      (box)
+    )
+    (label
+      :xalign {_notif=="" ? 0.5 : 0}
+      :yalign 0
+      :wrap true
+      :text {_notif=="" ? "The void..." : "${_notif}"}))
+)
+
+
+
+(defpoll _notif
+  :interval "1s"
+  `scripts/notifications.sh get &`)

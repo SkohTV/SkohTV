@@ -30,5 +30,6 @@ eww daemon &
 
 bspc config top_padding 33
 sh ~/.config/eww/launch_eww.sh &
+sh ~/.config/eww/scripts/notifications.sh get &
 
 feh  ~/.config/wallpapers --bg-center --bg-fill --randomize

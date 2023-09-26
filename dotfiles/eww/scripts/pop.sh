@@ -15,7 +15,8 @@ if [[ ! -f "$LOCK_FILE" ]]; then
   #$EWW_BIN close bar-wifi bar-calendar
   touch "$LOCK_FILE"
   $EWW_BIN open bar_brightsound
+  $EWW_BIN open bar_left
 else
-  $EWW_BIN close bar_brightsound
+  $EWW_BIN close bar_brightsound bar_left
   rm "$LOCK_FILE"
 fi
