@@ -8,7 +8,6 @@
 - [🔮 Interests](#-interests)
 	- [Computer Science](#computer-science)
 	- [Gaming \& content creation](#gaming--content-creation)
-	- [Sport ?](#sport-)
 - [🛠 Skills](#-skills)
 	- [Languages](#languages)
 	- [Web Developpement](#web-developpement)
@@ -65,10 +64,10 @@ Blablabla
 ### Gaming & content creation
 Blablabla
 
-<br>
+<!--<br>
 
-### Sport ?
-Blablabla
+### Lockpicking
+Blablabla-->
 
 
 
@@ -105,7 +104,8 @@ Blablabla
 ### Workflow
 <a href="https://nixos.org"><img src="https://i.ibb.co/3kJzJPg/nix.png" height="32px"></a>
 <a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="16px"></a>&nbsp;
-<a href="https://github.com/vim"><img src="https://skillicons.dev/icons?i=vim" height="32px"></a>&nbsp;
+<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>
+<a href="https://github.com/vim"><img src="https://skillicons.dev/icons?i=vim" height="16px"></a>&nbsp;
 <a href="https://obsidian.md"><img src="https://i.ibb.co/0rx1M7Z/obsidian.png" height="32px"></a>&nbsp;
 <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>&nbsp;
 
@@ -178,7 +178,7 @@ Small all-in-one Discord bot written in Python, only running in my Discord serve
 ## 🏆 Achievements
 
 **2023** - TOEIC® Listening and Reading test<br>
-**➤** 955/900 (CEFR level : C1)<br>
+**➤** 955/990 (CEFR level : C1)<br>
 
 
 
