@@ -1,32 +1,28 @@
 
 
 
-🔸 <u>**Arch Linux**</u><br>
-**->** [sxhkd](https://github.com/baskerville/sxhkd)<br>
-**->** [eww](https://github.com/elkowar/eww)<br>
-**->** [Dunst](https://github.com/dunst-project/dunst) (ctp)<br>
-**->** [Rofi](https://github.com/davatorium/rofi)<br>
-<!--**->** [Thunar](https://github.com/xfce-mirror/thunar)<br>-->
+### NixOS
 
-🔸 <u>**Terminal**</u><br>
-**->** [Alacritty]() (ctp)<br>
-**->** [Starship](https://github.com/starship/starship) (ctp)<br>
-**->** [zsh](https://github.com/zsh-users/zsh)<br>
+$\sf\color{orange}Core \space Programs$<br>
+DE/MW -> [bspwm]() ([config]()) + [sxhkd]() ([config]())<br>
+Compositor -> [picom]() ([config]())<br>
+Terminal -> [Alacritty]() ([config]())<br>
 
 
 
+$\sf\color{orange}Text \space User \space Interfaces \space (TUI)$<br>
 
-🔸 <u>****</u><br>
-**->** []()<br>
-**->** [Vimix Cursors White](https://github.com/vinceliuice/Vimix-cursors)<br>
-<!--**->** [Sweet](https://github.com/EliverLara/Sweet)<br>-->
-<!--**->** [Candy Icons](https://github.com/EliverLara/candy-icons)<br>-->
 
-| NixOs                                                            | Terminal                                                                   | Style                                                        |
-| ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [bspwm](https://github.com/baskerville/bspwm) ([mine](./bspwm/)) | [Alacritty](https://github.com/alacritty/alacritty) ([mine](./alacritty/)) | [JetBrains Mono NF](https://github.com/ryanoasis/nerd-fonts) |
-|                                                                  |                                                                            |                                                              |
-|                                                                  |                                                                            |                                                              |
+$\sf\color{orange}Graphical \space User \space Interfaces \space (GUI)$<br>
+
+
+**<u></u>**
+$\sf\color{orange}CLI \space Tools$<br>
 
 
 
+
+
+
+
+$\sf\color{orange}Almost \space done$
