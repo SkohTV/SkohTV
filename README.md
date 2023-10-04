@@ -31,8 +31,8 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 	<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" height="16px"></a>&nbsp;
 	<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="32px"></a>
-		<br><a href="#🛠 Tech Stack"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
-<br><b>Workflow</b><br>
+		<a href="#🛠 Tech Stack"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
+<br><br><b>Workflow</b><br>
 	<!--<a href="https://nixos.org"><img src="./images/icons/nix.png" height="32px"></a>-->
 	<!--<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="16px"></a>&nbsp;-->
 	<!--<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>-->
