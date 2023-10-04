@@ -1,4 +1,4 @@
-# <img src="./images/logo_small.png" align=center width=48px> Hello, World!
+# <img src="./images/logo_small.png" align=center width=32px> Hello, World!
 Hi, I'm a second year student in Computer Science, doing a bunch of personnal projects. I'm also a small content creator that makes videos and livestreams on my free time.
 
 
