@@ -8,7 +8,8 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 ## 🛠 Tech Stack
 
 <p align=center><div>
-		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=10&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS></a>
+		<!--<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=10&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS></a>-->
+		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=6&theme=onedark&layout=compact&hide_border=true&count_private=true></a>
 <b>Languages</b><br>
 	<a href="https://docs.modular.com/mojo/programming-manual.html"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a>
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
@@ -30,7 +31,7 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 	<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" height="16px"></a>&nbsp;
 	<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="32px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<!--<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="32px"></a>-->
-		<br><a href="#🛠 Tech Stack"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
+		<br><a href="#🛠 Tech Stack"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=4&theme=onedark&no-frame=true"></a>
 <br><b>Workflow</b><br>
 	<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="32px"></a>&nbsp;
 	<!--<a href="https://nixos.org"><img src="./images/icons/nix.png" height="32px"></a>-->
