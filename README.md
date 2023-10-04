@@ -8,7 +8,7 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 ## 🛠 Tech Stack
 
 <p align=center><div>
-		<a href="_"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=10&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS></a>
+		<a href="#_"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=10&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS></a>
 <b>Languages</b><br>
 	<a href="https://docs.modular.com/mojo/programming-manual.html"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a>
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
