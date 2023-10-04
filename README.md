@@ -75,7 +75,9 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <a href="#🔮 Socials">
+		<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+	</a>
 </p>
 
 <!-- 
