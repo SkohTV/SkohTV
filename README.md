@@ -5,34 +5,10 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 <br>
 
 
-## 👨‍💻 Projects
-
-<a href="#👨‍💻 Projects"><img src="./images/projects/wyvern.webp" width="20px"/></a>
-<a href="https://github.com/SkohTV/Wyvern"><b>Wyvern</b></a> -
-<a href="#👨‍💻 Projects"><img src="https://skillicons.dev/icons?i=cpp,cmake" height="12px"></a><br>
-???
-<br>
-
-<a href="#👨‍💻 Projects"><img src="./images/projects/pancakes.png" width="20px"/></a>
-<a href="https://github.com/SkohTV/Crepes"><b>Crepes</b></a> -
-<a href="#👨‍💻 Projects"><img src="https://skillicons.dev/icons?i=rust" height="12px"></a><br>
-???
-<br>
-
-<a href="#👨‍💻 Projects"><img src="./images/projects/quantum.png" width="20px"/></a>
-<a href="https://github.com/SkohTV/Quantum-bot"><b>Quantum</b></a> -
-<a href="#👨‍💻 Projects"><img src="https://skillicons.dev/icons?i=python" height="12px"></a><br>
-Small all-in-one Discord bot written in Python, only running in my Discord server
-<br>
-
-
-<br>
-
-
 ## 🛠 Tech Stack
 
 <p align=center><div>
-		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=10&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS></a>
+		<a href=""><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=10&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS></a>
 <b>Languages</b><br>
 	<a href="https://docs.modular.com/mojo/programming-manual.html"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a>
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
