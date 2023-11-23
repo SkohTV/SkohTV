@@ -15,15 +15,17 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 	<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
 	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;
 	<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" height="32px"></a>&nbsp;
 	<!-- <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp; -->
 	<!-- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a> -->
 <br><br><b>Web Developpement</b><br>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
-	<a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" height="32px"></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
+	<!-- <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a> -->
+	<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp; -->
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="32px"></a>&nbsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;
 	<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp;
-	<!-- <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a> -->
+	<!-- <a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" height="32px"></a> -->
 <br><br><b>Databases</b><br>
 	<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
 	<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="32px"></a>
@@ -40,8 +42,8 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 	<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
-	<!-- <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp; -->
-	<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp;
+	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
+	<!-- <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp; -->
 	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>
 <br><div></p>
 
