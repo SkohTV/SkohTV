@@ -69,7 +69,7 @@ Hi, I'm a second year student in Computer Science, doing a bunch of personnal pr
 	<span>&nbsp;&nbsp;</span>
 	<a href="https://youtube.com/@Skoh"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://discord.gg/G8hrncZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://instagram.com/SkohTV"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://instagram.com/noe.lorret"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://tiktok.com/@skohtv"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" style="vertical-align:center"/></a>
 	<span>&nbsp;&nbsp;</span>
 	<a href="#🔮 Socials"><img src="./images/camera.png" width="24px"></a>
