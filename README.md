@@ -42,7 +42,6 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>
 	<a href="https://github.com/vim"><img src="https://skillicons.dev/icons?i=vim" height="16px"></a>&nbsp;
 	<a href="https://obsidian.md"><img src="./images/icons/obsidian.png" height="32px"></a>&nbsp;
-	<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32px"></a>
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
