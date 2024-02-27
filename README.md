@@ -24,9 +24,8 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;
 <br><br><b>Web Developpement</b><br>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
-	<!-- <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a> -->
-	<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp; -->
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="32px"></a>&nbsp;
+	<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;
 	<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>
 <br><br><b>Databases</b><br>
@@ -60,7 +59,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="#🔮 Socials"><img src="./images/laptop.png" width="24px"></a>
 	<span>&nbsp;&nbsp;</span>
 	<a href="https://github.com/SkohTV" target="_blank"><img src="https://img.shields.io/badge/Github-000000.svg?logo=Github&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://stackoverflow.com/users/21143650/skoh"><img src="https://img.shields.io/badge/Stack%20Overflow-FF6600.svg?logo=Stack%20Overflow&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://leetcode.com/SkohTV/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=LeetCode&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://www.linkedin.com/in/noé-lorret-despret-650721279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
 	<span>&nbsp;&nbsp;</span>
 	<a href="#🔮 Socials"><img src="./images/laptop.png" width="24px"></a>
@@ -70,7 +69,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="#🔮 Socials"><img src="./images/camera.png" width="24px"></a>
 	<span>&nbsp;&nbsp;</span>
 	<a href="https://youtube.com/@Skoh"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://discord.gg/G8hrncZ"><img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://discord.com/users/373055398464323584"><img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://instagram.com/noe.lorret"><img src="https://img.shields.io/badge/Instagram-E1306C.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://www.patreon.com/skoh"><img src="https://img.shields.io/badge/Patreon-F96854.svg?logo=Patreon&logoColor=white" style="vertical-align:center"/></a>
 	<span>&nbsp;&nbsp;</span>
