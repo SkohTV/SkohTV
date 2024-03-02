@@ -11,17 +11,15 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 <p align=center><div>
 		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=6&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS,Nix></a>
 <b>Languages</b><br>
-	<!-- <a href="https://docs.modular.com/mojo"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a> -->
-	<!-- <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp; -->
-	<!-- <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp; -->
-	<!-- <a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
-	<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" height="32px"></a>&nbsp;
-	<!-- <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="32px"></a>&nbsp; -->
-	<!-- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="32px"></a>&nbsp; -->
+	<a href="https://docs.modular.com/mojo"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a>
+	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
+	<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
+	<!-- <a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp; -->
+	&nbsp;&nbsp;&nbsp;
+	<!-- <a href="https://www.scala-lang.org/"><img src="https://skillicons.dev/icons?i=scala" height="32px"></a> -->
+	<!-- <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="16px"></a>&nbsp; -->
 	<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
-	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;
+	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>
 <br><br><b>Web Developpement</b><br>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
 	<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a>
@@ -32,8 +30,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
 	<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="32px"></a>
 	<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" height="16px"></a>&nbsp;
-	<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="32px"></a><!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-	<!-- <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="32px"></a> -->
+	<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="32px"></a>
 		<a href="#🛠 Tech Stack"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
 <br><br><b>Workflow</b><br>
 	<a href="https://nixos.org"><img src="./images/icons/nix.png" height="32px"></a>
@@ -45,7 +42,6 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
 	<!-- <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp; -->
-	<a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>
 <br><div></p>
 
 
