@@ -14,7 +14,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://docs.modular.com/mojo"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a>
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
 	<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
-	<!-- <a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp; -->
+	<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp;
 	&nbsp;&nbsp;&nbsp;
 	<!-- <a href="https://www.scala-lang.org/"><img src="https://skillicons.dev/icons?i=scala" height="32px"></a> -->
 	<!-- <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="16px"></a>&nbsp; -->
@@ -67,7 +67,6 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://youtube.com/@Skoh"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://discord.com/users/373055398464323584"><img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://instagram.com/noe.lorret"><img src="https://img.shields.io/badge/Instagram-E1306C.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
-	<a href="https://www.patreon.com/skoh"><img src="https://img.shields.io/badge/Patreon-F96854.svg?logo=Patreon&logoColor=white" style="vertical-align:center"/></a>
 	<span>&nbsp;&nbsp;</span>
 	<a href="#🔮 Socials"><img src="./images/camera.png" width="24px"></a>
 </p>
