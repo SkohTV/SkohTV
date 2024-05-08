@@ -16,16 +16,18 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
 	<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp;
 	&nbsp;&nbsp;&nbsp;
-	<!-- <a href="https://www.scala-lang.org/"><img src="https://skillicons.dev/icons?i=scala" height="32px"></a> -->
-	<!-- <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="16px"></a>&nbsp; -->
+	<!-- <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp; -->
 	<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
-	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>
+	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>&nbsp;
+	<!-- <a href="https://www.scala-lang.org/"><img src="https://skillicons.dev/icons?i=scala" height="32px"></a> -->
+	<!-- <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="16px"></a> -->
 <br><br><b>Web Developpement</b><br>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
 	<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;
-	<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>
+	<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>&nbsp;
+	<!-- <a href="https://htmx.org/"><img src="https://skillicons.dev/icons?i=htmx" height="32px"></a> -->
 <br><br><b>Databases</b><br>
 	<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
 	<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="32px"></a>
@@ -40,6 +42,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://obsidian.md"><img src="./images/icons/obsidian.png" height="32px"></a>&nbsp;
 <br><br><b>Miscellaneous</b><br>
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
+	<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="32px"></a>&nbsp;
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
 	<!-- <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>&nbsp; -->
 <br><div></p>
@@ -67,6 +70,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://youtube.com/@Skoh"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://discord.com/users/373055398464323584"><img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=Discord&logoColor=white" style="vertical-align:center"/></a>
 	<a href="https://instagram.com/noe.lorret"><img src="https://img.shields.io/badge/Instagram-E1306C.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
+	<a href="https://ko-fi.com/skoh"><img src="https://img.shields.io/badge/Ko--fi-F16061.svg?logo=ko-fi&logoColor=white" style="vertical-align:center"/></a>
 	<span>&nbsp;&nbsp;</span>
 	<a href="#🔮 Socials"><img src="./images/camera.png" width="24px"></a>
 </p>
