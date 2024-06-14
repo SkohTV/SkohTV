@@ -9,7 +9,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 ## 🛠 Tech Stack
 
 <p align=center><div>
-		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=6&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS,Nix></a>
+		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=6&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS,Nix,Dockerfile,Php></a>
 <b>Languages</b><br>
 	<a href="https://docs.modular.com/mojo"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a>
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
