@@ -1,5 +1,5 @@
-# <img src="./images/logo_small.png" align=center width=32px> Hello, World!
-Hi, I'm a student in second year of Computer Science, doing a bunch of personnal projects.<br>
+# <img src="./images/logo/logo_small.png" align=center width=32px> Hello, World!
+Hi, I'm a student in third year of Computer Science, doing a bunch of personnal projects.<br>
 I'm also a small content creator that makes videos and livestreams on my free time.
 
 
