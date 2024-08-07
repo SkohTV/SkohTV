@@ -9,7 +9,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 ## 🛠 Tech Stack
 
 <p align=center><div>
-		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=6&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,Shell,CSS,Makefile,Less,Sass,CMake,SCSS,Nix,Dockerfile,Php></a>
+		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=6&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,CSS,Less,Sass,SCSS,Makefile,CMake,Shell,Dockerfile></a>
 <b>Languages</b><br>
 	<a href="https://docs.modular.com/mojo"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a>
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
@@ -41,7 +41,6 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
 	<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="32px"></a>&nbsp;
 	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
-	<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32px"></a>
 <br><div></p>
 
 
