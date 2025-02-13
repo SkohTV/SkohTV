@@ -15,15 +15,13 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
 	<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
 	<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp;
-	<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="32px"></a>&nbsp;
 	<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
 	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>
 <br><br><b>Web Developpement</b><br>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
 	<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>&nbsp;
-	<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="32px"></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>
 <br><br><b>Databases</b><br>
 	<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
 	<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="32px"></a>
