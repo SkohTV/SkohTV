@@ -1,9 +1,9 @@
 # <img src="./images/logo/logo_small.png" align=center width=32px> Hello, World!
 Hi, I'm a student in third year of Computer Science, doing a bunch of personnal projects.<br>
-I'm also a small content creator that makes videos and livestreams on my free time.
+I'm also a small content creator that makes videos and livestreams in my free time.
 
 
-<br>
+<!-- <br>
 
 
 ## 🛠 Tech Stack
@@ -64,7 +64,7 @@ I'm also a small content creator that makes videos and livestreams on my free ti
 	<a href="https://instagram.com/noe.lorret"><img src="https://img.shields.io/badge/Instagram-E1306C.svg?logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 	<span>&nbsp;&nbsp;</span>
 	<a href="#🔮 Socials"><img src="./images/camera.png" width="24px"></a>
-</p>
+</p> -->
 
 
 <!-- 
