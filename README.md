@@ -1,12 +1,28 @@
 # <img src="./images/logo/logo_small.png" align=center width=32px> Hello, World!
-Hi, I'm a student in third year of Computer Science, doing a bunch of personnal projects.<br>
+I'm a student in third year of Computer Science, doing a bunch of personnal projects.<br>
 I'm also a small content creator that makes videos and livestreams in my free time.
 
+## 🛠 Tech Stack
+
+<b>Languages</b><br>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
+<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>&nbsp;
+<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
+<a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" height="32px"></a>
+<br><br><b>Tooling</b><br>
+<a href="https://nixos.org"><img src="https://skillicons.dev/icons?i=nix" height="32px"></a>&nbsp;
+<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>
+<br><br><b>Software</b><br>
+<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>&nbsp;
+<a href="https://obsidian.md"><img src="./images/icons/obsidian.png" height="32px"></a>
 
 <!-- <br>
 
 
-## 🛠 Tech Stack
 
 <p align=center><div>
 		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=6&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,CSS,Less,Sass,SCSS,Makefile,CMake,Shell,Dockerfile></a>
@@ -75,4 +91,4 @@ I'm also a small content creator that makes videos and livestreams in my free ti
 	For pannels : https://gprm.itsvg.in
 
 
--->
+ -->
