@@ -8,11 +8,10 @@ I'm also a small content creator that makes videos and livestreams in my free ti
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" style="height: 32px"></a>&nbsp;
 <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" style="height: 32px"></a>&nbsp;
 &nbsp;&nbsp;&nbsp;
-<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" style="height: 32px"></a>&nbsp;
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" style="height: 32px"></a>&nbsp;
+<a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" style="height: 32px"></a>&nbsp;
 <a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" style="height: 32px"></a>
-<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" style="height: 16px"></a>&nbsp;
-<a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" style="height: 32px"></a>
+<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" style="height: 16px"></a>
 <br><br><b>Tooling</b><br>
 <a href="https://nixos.org"><img src="https://skillicons.dev/icons?i=nix" style="height: 32px"></a>&nbsp;
 <a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" style="height: 32px"></a>&nbsp;
