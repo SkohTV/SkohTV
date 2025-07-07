@@ -5,20 +5,21 @@ I'm also a small content creator that makes videos and livestreams in my free ti
 ## 🛠 Tech Stack
 
 <b>Languages</b><br>
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="32px"></a>&nbsp;
-<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" style="height: 32px"></a>&nbsp;
+<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" style="height: 32px"></a>&nbsp;
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>&nbsp;
-<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="32px"></a>&nbsp;
-<a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" height="32px"></a>
+<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" style="height: 32px"></a>&nbsp;
+<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" style="height: 32px"></a>
+<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" style="height: 16px"></a>&nbsp;
+<a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" style="height: 32px"></a>
 <br><br><b>Tooling</b><br>
-<a href="https://nixos.org"><img src="https://skillicons.dev/icons?i=nix" height="32px"></a>&nbsp;
-<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" height="32px"></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>
+<a href="https://nixos.org"><img src="https://skillicons.dev/icons?i=nix" style="height: 32px"></a>&nbsp;
+<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" style="height: 32px"></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" style="height: 32px"></a>&nbsp;
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" style="height: 32px"></a>
 <br><br><b>Software</b><br>
-<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>&nbsp;
-<a href="https://obsidian.md"><img src="./images/icons/obsidian.png" height="32px"></a>
+<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" style="height: 32px"></a>&nbsp;
+<a href="https://obsidian.md"><img src="./images/icons/obsidian.png" style="height: 32px"></a>
 
 <!-- <br>
 
@@ -27,33 +28,33 @@ I'm also a small content creator that makes videos and livestreams in my free ti
 <p align=center><div>
 		<a href="#🛠 Tech Stack"><img align=right width=320 src=https://github-readme-stats.vercel.app/api/top-langs/?username=SkohTV&langs_count=6&theme=onedark&layout=compact&hide_border=true&count_private=true&hide=HTML,CSS,Less,Sass,SCSS,Makefile,CMake,Shell,Dockerfile></a>
 <b>Languages</b><br>
-	<a href="https://docs.modular.com/mojo"><img src="./images/icons/mojo.png" height="32px" style="border-radius:6px"></a>
-	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="16px"></a>&nbsp;
-	<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32px"></a>&nbsp;
-	<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" height="32px"></a>&nbsp;
-	<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="32px"></a>
-	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" height="16px"></a>
+	<a href="https://docs.modular.com/mojo"><img src="./images/icons/mojo.png" style="height: 32px" style="border-radius:6px"></a>
+	<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" style="height: 16px"></a>&nbsp;
+	<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" style="height: 32px"></a>&nbsp;
+	<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" style="height: 32px"></a>&nbsp;
+	<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" style="height: 32px"></a>
+	<a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" style="height: 16px"></a>
 <br><br><b>Web Developpement</b><br>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32px"></a>&nbsp;
-	<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="32px"></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" height="16px"></a>&nbsp;
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" height="32px"></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" style="height: 32px"></a>&nbsp;
+	<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" style="height: 32px"></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" style="height: 16px"></a>&nbsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" style="height: 32px"></a>
 <br><br><b>Databases</b><br>
-	<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="32px"></a>&nbsp;
-	<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="32px"></a>
-	<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" height="16px"></a>&nbsp;
-	<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="32px"></a>
+	<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" style="height: 32px"></a>&nbsp;
+	<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" style="height: 32px"></a>
+	<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" style="height: 16px"></a>&nbsp;
+	<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" style="height: 32px"></a>
 		<a href="#🛠 Tech Stack"><img width=320 align=right src="https://github-profile-trophy.vercel.app/?username=skohTV&row=2&column=3&theme=onedark&no-frame=true"></a>
 <br><br><b>Workflow</b><br>
-	<a href="https://nixos.org"><img src="./images/icons/nix.png" height="32px"></a>
-	<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" height="16px"></a>&nbsp;
-	<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" height="32px"></a>
-	<a href="https://github.com/vim"><img src="https://skillicons.dev/icons?i=vim" height="16px"></a>&nbsp;
-	<a href="https://obsidian.md"><img src="./images/icons/obsidian.png" height="32px"></a>
+	<a href="https://nixos.org"><img src="./images/icons/nix.png" style="height: 32px"></a>
+	<a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" style="height: 16px"></a>&nbsp;
+	<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" style="height: 32px"></a>
+	<a href="https://github.com/vim"><img src="https://skillicons.dev/icons?i=vim" style="height: 16px"></a>&nbsp;
+	<a href="https://obsidian.md"><img src="./images/icons/obsidian.png" style="height: 32px"></a>
 <br><br><b>Miscellaneous</b><br>
-	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="32px"></a>&nbsp;
-	<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="32px"></a>&nbsp;
-	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32px"></a>&nbsp;
+	<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" style="height: 32px"></a>&nbsp;
+	<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" style="height: 32px"></a>&nbsp;
+	<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" style="height: 32px"></a>&nbsp;
 <br><div></p>
 
 
