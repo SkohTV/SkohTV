@@ -1,6 +1,6 @@
 # <img src="./images/logo/logo_small.png" align=center width=32px> Hello, World!
-I'm a student in fourth year of Computer Science, doing a bunch of personnal projects.<br>
-I'm also a small content creator that makes videos and livestreams in my free time.
+I'm a 21yo French student in my 4th year of Computer Science, in love with [Low-level programming](https://en.wikipedia.org/wiki/Low-level_programming_language) and [Open-source](https://en.wikipedia.org/wiki/Open-source_software).  
+In my free time, I work on personnal coding projects, contribute to Open-source and create videos for my [YouTube channel](https://www.youtube.com/@Skoh).
 
 ## 🛠 Tech Stack
 
