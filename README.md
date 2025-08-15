@@ -15,7 +15,8 @@ In my free time, I work on personnal **[coding projects](https://github.com/Skoh
 <a href="https://nixos.org"><img src="https://skillicons.dev/icons?i=nix" style="height: 32px"></a>&nbsp;
 <a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" style="height: 32px"></a>&nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" style="height: 32px"></a>&nbsp;
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" style="height: 32px"></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" style="height: 32px"></a>&nbsp;
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" style="height: 32px"></a>
 <br><br><b>Software</b><br>
 <a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" style="height: 32px"></a>&nbsp;
 <a href="https://obsidian.md"><img src="https://skillicons.dev/icons?i=obsidian" style="height: 32px"></a>
