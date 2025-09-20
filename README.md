@@ -9,6 +9,7 @@ In my free time, I work on personal **[coding projects](https://github.com/SkohT
 <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" style="height: 32px"></a>&nbsp;
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" style="height: 32px"></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" style="height: 32px"></a>&nbsp;
 <a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" style="height: 32px"></a>
 <a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" style="height: 16px"></a>
 <br><br><b>Tooling</b><br>
